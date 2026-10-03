@@ -1,0 +1,5 @@
+*.zip binary
+*.json -text
+*.zip.* binary
+*.bin binary
+*.bin.* binary

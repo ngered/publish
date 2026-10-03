@@ -1,0 +1,46 @@
+{
+  "signature": "/ikFbI4aJ7WweR5c/ahtZCLnIgRHvPC/t4wVG6nXXPzBptrChH5v4ZcF92VkUWKIpVmeHZxsSXo42i0GGS9v7A==",
+  "donnees": {
+  "format": 2,
+  "publie": "2026-10-03T15:20:25.7573377+02:00",
+  "projets": [
+    {
+      "id": "foabooster",
+      "nom": "foabooster",
+      "description": "",
+      "public": true,
+      "fichierVersion": "FOAbooster.exe",
+      "executable": "FOAbooster.exe",
+      "dossierParDefaut": "C:\\Outils\\FOAbooster",
+      "mode": "complet",
+      "conserver": [],
+      "versions": [
+        {
+          "version": "1.0.6.0",
+          "date": "2026-10-02T17:34:53.7522628+02:00",
+          "notes": "",
+          "archive": "archives/foabooster/foabooster_1.0.6.0.zip",
+          "parties": [
+            "archives/foabooster/foabooster_1.0.6.0.zip.001",
+            "archives/foabooster/foabooster_1.0.6.0.zip.002"
+          ],
+          "sha256": "267d74ca45c179fe5dfe96851672374c84bb0f9bef6b50cc3f14020e1541a2dd",
+          "taille": 142659998
+        }
+      ]
+    }
+  ],
+  "prives": [
+    {
+      "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+      "generation": 0,
+      "fiche": "r22YFnny/jNPzU4vZY/NefmKTc+MquaW4oSmD2A+IW86ZClEeHHvVjKiJNQo/MNOacW3RjoXgPVz1Hp0LNA6TnMVr8fUfMS2uzSMJPqRnYjr+l6iJG+Ojn92laRLfstn7G9wpue4GCfvt6ymwdfk7y5D85iCqa2HMNlYPNDkF8Exi632NzSE7e3lYFu029xJ1owzxGpiK+41AStum8TfYvyJfN7ws3C4jkOYRpjdW1K5h9GSF1AvnU6KGUeHiz82RVJPkbsywEEkSKgpXhRuyNHLYX016Wg0mZkE8ujVodv04dgwWuR/JisQ78nbCJxHGgjBj/uneMUfhkJrjpQRZhRJXKVuEZ27LXgQ99UQUc/o7DLd9zr8an1PeuXZ3JC6niRS0uPgvyBtoLk07O8ZsJRDOPBai47ctUazG39xkA9sYlpY2OkkRz99uxAACFLxWqJOjg/abwnzenPceHAqLXZIxF+nuNh2uLnlaqpZnjOzY4zv3OJRBd7SDVPB4+mA8k8utIOybvMDKYnTfZxVt9BiAqT2LwDvlkBi2HnXFVYqIWI/ek74C5ZhIM9CXhgzAL9oUCo/zLn3uUtBZOeDMpX0A/eLYjh2WPid0QBXppj3jW1f1D0xZQfqzv6lUVNblmb48OpsI7LobXkF2sGxylNGDt6XhNfSPM3yP2CRWjFYUfUvHdA40+t4XaOZhhmFkUuHWTjS6EhcFY0DZUM/k2lLb1DkEgc55VmI8wcs4uWRZaEUzFWRp1G73sX2yAt5wTUdP1CyfxGXsbs05bQsqOU8mM/ljPb9UNb7+IB2zaUeHRhj4NVlEH582Oubjf1UIdduTtv5f3FTSM9krRdSMOYvifpg9oimb1QUWePyTbQ0MmwdN3B+FkXIIGLzbjWyBFxPKZH72kN8yd7FmsciixIuff8K2AMTm02pIzP6zN0htsK3T2bp18JKuA49F0CeUWE+JHCx9pLYW9V1MV1gwsFy5/Ppi/B2bAyv1u/vBnZYNQBUoIbuNAuU36lkpGXG3R+8KtJlzuLp1yFUWC7WyGU9iTUAkGugqpsZbSOhRMp1AucQP9j3NGNOhBIkygVYm+7sSQMmisbhgsE110wTDdA8eZvV215iwKlVxP/UbfhqQR1Cb/7G+rxgwRHz5hE00Ia24raBLx1gnvZyEKj1W2Q5WyF7wLQQ7Wc="
+    },
+    {
+      "ref": "f275c65f14eb4ef185ded7596095e15e",
+      "generation": 0,
+      "fiche": "tLOOCuKeSNrtBIEqXQZQXEiRftoUnzFWJ0/jvnrmQVWbk4wVoju6uAeqT+1zbe25dZ6RR+/IZkHm7HO03Sq4HydKH4FzttAZnl41LmSCDFSNN20NPquhUaDUcL5y27ti6hCtTxXfVckSeNFCBkMk9OOEOmrQ64YjDHUO7ubrnbrbV7ocHuFrvDo6EuWg6gNGnAyAQbhsKC29GfsbTjgKgMT7f8FfDpJSkVbU0TMo0WjQZ1dB8qJZGZNqIfxU3cI3tdmj9ewv99Wb+alZkpob15T/V4QnB2OFjIZgK4tpYyP1FBHvz03BQdjR4iIvPsMPxQwaqyG7X63FVngN4rfqFKoFu2wPEuAocRJ+/9pqp4RZFGido+1Y8SUVvbMbu5CoizwQcCIF1TMkFw3SPhhUKmubG8lurK5UufG/tY4fDsHUNRahCGqUGBju2o8b1RkZq3kcTRSvDBLNeSrAlY7qgjMdjzLzfDW83fmLFo11RCl5mz8x5Q4rUcDNx0eKlOrh11QocwzkFIenImyp3wh6S8sFwUIFswqcDmRvNNsPNd3EImlLCzZv6pYvhAENYk+MxKSTO46/44jsIqGKVrWg6zthyGAqqYiIv/o2BxNF2TGebJWZKcVPoKCHPSWtp2OaaKSTO2wFhBjxiPLS6vGkQaLOFURbd5o/fUtONIdZNFzv849OL+XKtKM4+pm8pHZY/tolz2WQ0mJwQDBtWtjx2CEsu8MGuRpkORjaGJTkEF+4zQueBO/nTO5upPS5UU7Aeegt3qZW1iiQuSomHemovWywMbHyyZbLMd0c0pWpaLisGw=="
+    }
+  ]
+}
+}
