@@ -1,8 +1,8 @@
 {
-  "signature": "Fk86C4qblJBYY3Fz11Jwxe25enKatyI6zXSbEdBJfx0tDCA8gREq31DlxM1ucKksTRDgUfyV+yxgJSPO/gVMbg==",
+  "signature": "Vw+wQJFvE3Ifk+aeu8MYSfjfxrmhwSSFs9qkXiIcex1euhjUGJOVJVUaChuo56WGwUErksiVYBvAwxheTjjr7w==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-03T17:51:49.8844186+02:00",
+  "publie": "2026-10-03T21:47:57.2036703+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -26,6 +26,29 @@
           ],
           "sha256": "267d74ca45c179fe5dfe96851672374c84bb0f9bef6b50cc3f14020e1541a2dd",
           "taille": 142659998
+        }
+      ]
+    },
+    {
+      "id": "ngestore",
+      "nom": "NGE Store",
+      "description": "Catalogue et mises à jour des applications NGE.",
+      "public": true,
+      "fichierVersion": "NGEStore.exe",
+      "executable": "NGEStore.exe",
+      "dossierParDefaut": "C:\\Outils\\NGEStore",
+      "mode": "complet",
+      "conserver": [
+        "depot.json"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0.0",
+          "date": "2026-10-03T21:47:56.5228007+02:00",
+          "notes": "",
+          "archive": "archives/ngestore/ngestore_1.0.0.0.zip",
+          "sha256": "8c261157442d243a1242a51ac5f25f448662d566fff9505c43e992b7141fe80b",
+          "taille": 161195
         }
       ]
     }
