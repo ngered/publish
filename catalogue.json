@@ -1,8 +1,8 @@
 {
-  "signature": "Vw+wQJFvE3Ifk+aeu8MYSfjfxrmhwSSFs9qkXiIcex1euhjUGJOVJVUaChuo56WGwUErksiVYBvAwxheTjjr7w==",
+  "signature": "vihbb6b9HFNZU3UlqdWSv9iGD1YW8O9nbWYbGmlHC6ar2ZZ9FlVn7Z9ki8DmTJJWFsawmRWHa4vCbBM80TP9vw==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-03T21:47:57.2036703+02:00",
+  "publie": "2026-10-04T01:41:15.6449026+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -62,7 +62,7 @@
     {
       "ref": "f275c65f14eb4ef185ded7596095e15e",
       "generation": 0,
-      "fiche": "oTjmyLjfK1NvrumnVYab5mEBZ5NSe7xS9CkuR/Sp4mkHK72ELiUTK4AHfra0KjdLwafmtSTH2ARDDn0hFMZo0YbYuKOiKQZgVwWhrVksCp08RFxPWwN/Rg0Fm3dnXzLsrzGD+y/9VyFhiv0zcKPB8EV+KSiX+jsyQ/AzYS3+6QxwV6/ivFVCa/WC48o4ICN8H+Sd68HcyVabagzRkcm1MiUgikohyRCRbzoNJGDPqrhNcfrO+HkwOO1jhtpSU8PlnCJuU+6OXmHHHJ1FkLWpMyc5eedOD+J1h/LC/z0DnRbXtyi3H3dt/zWn9jLSWGhfNLi1OcULBV+VGyx80SPniyuZgwZEMs3SvLeV/o9kQzXdDQTckXaIbhzhLKW73FRfiz6IyybkAtYFpzgjTT5GP/cWU3Y4dzAOUb5q5Uqx2Ht0564+oCEcL+/BwQaGtEzP2mHJgqS5+VnL1TIGclLdPpo8BjyYlEae5yACNz6oAfibyplAIQ4ps7cxYCXt/qw/F2AMhTSOdfmzH/g89au1LEQygqcXsD+ya579x7g6371fr7m1Fv/+FiftWrsJuIVlDpN6L6GHSRUCqEHMfxOtjvrhxAvyoWaiGJacCFiDPawHxg2j0iIw+/J8xaIZEIQ9+fukKR+OfhENDWZM5L06DaNp6aYZ+ArVSy+CFzW+U+y2lqbf3OVeARmOD4wp5CSM8oGLXhxVgYcvtbueqRH258ERgl08WkSf9ZUHnuIogqoRENGU9CAyWZ44DlBuLK3fiqMxhsggvlYpcLGrJkfjrjNLzUksnz2H6Bw="
+      "fiche": "ypmKKhvjA57vrsyLN98+PlWoIglqXgCk8JypW/7lHckjsl3nuoD3TW2ccf53kpGnV19aHaCPwt9SjQ5TsC2gxlsKnNA10Knswpyi6tfZNXyNh1MD6hrMlce4hbCzpM1r70dGWV2w7vaW0moxGJ/eCodwQ29ufps+lOMgBYlhUrc0B2jmxbMW6JPozrODF6LluTOGVxVhtIisAvQgxC8HG8kB3qy06Khto/1Wt+tInOLElhcZbmGO/wot/uKftI5efuyclxxFVwo1NmaCPhkvYe8MRTSzTIT27AzmOfn4jHd+cmA1Z6lsavBLu+fQhbDFL/DHepLsP89PYFG9eIVYK5gXQiWrJbrHVYuU4XTpasW9RrdZ+WNW4+RhLio0pN0XBIWABtVGOXe6M+S7C7oPRNQmfOcE14PqRZycNtxR/uIF8FWynoPqHCZTWQbuPQtAYvJztSLJ1bZjvLp6B2u3q0d/b4mstfKpp2Gy+DgJzamROVUD3gkDT2V2b3WE0nRUAUeD3eO2Q8BW7q1DguQTqZxTTj5WoWBzaDEQJzTgxPfIslEZvzVmVifHsWRtHVsZddqCfgVzUcnIcRV5ONC03MiADGoDzZRlb1CHhnaoFUYtK0441hLNm9uGVfN3b4GaJsJf9ViDkxIB6M5UvM+eciMwbnEi1FYjHRAUh89QPBrHUqCJX0OGDd9qo24BKm3q14bVOVkLoV2A8XwLNAyZrxEJMydWq0a8c74c9+0MKBlht7++mvGJLxUveVm73fxpq9erYuTq2Udic4vCAp84J1ZC2fRQv81sINE4TSLP5JIWyW2qTjQ3flxyLHT8OsCwNk8="
     }
   ]
 }
