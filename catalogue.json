@@ -1,8 +1,8 @@
 {
-  "signature": "+Xn5kjzC1W1kwxdBVgDRNnM/B8s68o9eaEo50t1q16HxUQaki+8XdsXzLzM6+Uxkbc/GhElIYVVwyoDXx5UX9g==",
+  "signature": "M8XxHMUO3LQhaD1+Lkv35ALbVDotB5FnqSLPZcSoyLNwm5cMvY6NHlvpnTsmamHzBU9LVkhxgtphKqPRBsJ9YQ==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-04T22:29:06.9212864+02:00",
+  "publie": "2026-10-04T22:38:24.3604968+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -49,6 +49,26 @@
           "archive": "archives/ngestore/ngestore_1.0.0.0.zip",
           "sha256": "8c261157442d243a1242a51ac5f25f448662d566fff9505c43e992b7141fe80b",
           "taille": 161195
+        }
+      ]
+    },
+    {
+      "id": "net10x64_runtime",
+      "nom": "net10x64_runtime",
+      "description": "",
+      "public": true,
+      "fichierVersion": "",
+      "dossierParDefaut": "",
+      "mode": "complet",
+      "conserver": [],
+      "versions": [
+        {
+          "version": "10.0.12",
+          "date": "2026-10-04T22:38:23.3187921+02:00",
+          "notes": "",
+          "archive": "archives/net10x64_runtime/net10x64_runtime_10.0.12.zip",
+          "sha256": "b6156d2effdf456377c483a06486185ddd30403b361083704155c328d056cfcb",
+          "taille": 73281061
         }
       ]
     }
