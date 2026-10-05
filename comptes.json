@@ -1,5 +1,5 @@
 {
-  "signature": "MVtTlJcgmVCGoxTnHxKdFBpByoLkRRgIAClQMbtSG1mUDf3g/JrksT4k5gIjzJiAtU9l/nQ3rMaUD5usc4gaww==",
+  "signature": "zqEcfR8t2Wp1AxMq07wfUtSnuTgT9a99fV9BUckMotJbCuZpXD8bWpNqN3G8G6S+1ytvO5VRQHpxu8pW+ZEHZg==",
   "donnees": {
   "comptes": [
     {
@@ -19,12 +19,6 @@
               "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
               "cles": [
                 "Sn5eQuNfzaM6YWHYo2FJ1U0DzhRddhK9jxsC4I7/x5AN/RwoVbWVPS7qSmoelRq/ITck+gu3ZFqyekOj"
-              ]
-            },
-            {
-              "ref": "f275c65f14eb4ef185ded7596095e15e",
-              "cles": [
-                "F16YZirkLsJmIKaf4pLR2cVYMt7T48IAlKfHJ5pfatVgp4nX1XBrIZ3WmTU25/rL7q+NMDje0Lf48BJc"
               ]
             }
           ]
@@ -49,12 +43,6 @@
               "cles": [
                 "HK59eKan41XKSGOFhbskGfqDvryuvw0NxIVmPSbQ2wm+HPBx5btSidRj6OwmexAfjqiM3YxS8v53WB2X"
               ]
-            },
-            {
-              "ref": "f275c65f14eb4ef185ded7596095e15e",
-              "cles": [
-                "havq+Z5DYZOOUq+zAlAlSBTZD+hmzRvoyhyIUPV4xbqrg2Ce65eOKWL6R1622FaOVGI6Cx6FsGNCHCqF"
-              ]
             }
           ]
         }
@@ -77,12 +65,6 @@
               "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
               "cles": [
                 "eKM03Rr58RJ3An39Ad2pPMKZLeSgTAfaFTNKS8R8AeTKQYHy24DW06mJyckvZHw4fKCk1ZubkOTp951C"
-              ]
-            },
-            {
-              "ref": "f275c65f14eb4ef185ded7596095e15e",
-              "cles": [
-                "nniBkCTfxM+T0FogJzH503TB9ml/VARizgu+kKcnX/JsKywigkct1SvngLOyF+riAuGCC+M/L47Puaz9"
               ]
             }
           ]
