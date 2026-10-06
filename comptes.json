@@ -1,5 +1,5 @@
 {
-  "signature": "tcLaqIVI2x70tkIE6PS02F0nnMHfTiqoRio0eziqZmKNgg/6wDvvnf5DBYUQPM/FrR3OPyVA6028Oj0PPZlgEA==",
+  "signature": "vRtwTHLZwlGJ6qRtccfDyCS9lvdILjaZ6dRjPl8MeGiGud9ov+7wePSaPgkvdkam8vkwez0exNcIojo5ksPP1g==",
   "donnees": {
   "comptes": [
     {
@@ -22,6 +22,12 @@
               ]
             }
           ]
+        },
+        {
+          "nom": "+0EtqTqu8bayuZ/2QfAQsby++8kiUvdYxAxblJYC58wwTeNi7Ictae+ZKA==",
+          "postes": 0,
+          "postesActives": [],
+          "projets": []
         }
       ]
     },
