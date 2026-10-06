@@ -1,8 +1,8 @@
 {
-  "signature": "J2faMG08FMiEGuatlOOZF3z8hNeeRPF+SKjZnlwkjEAhzrkk1vk6DXjb7XSBzBmEBiHMR7S76xKXYPEX7e09+g==",
+  "signature": "rGZy6vPHcOWrBDTh97WJN4J7npcsYgzMXkmb2AEoIep6qMXWBStMGIB30HnUipxnDHTnbUSCpfnL9LSE/bUejA==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T19:24:40.8339975+02:00",
+  "publie": "2026-10-06T19:26:03.3511566+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -17,7 +17,7 @@
       "versions": [
         {
           "version": "1.0.6.0",
-          "date": "2026-10-02T17:34:53.7522628+02:00",
+          "date": "2026-10-06T19:26:00.7633901+02:00",
           "notes": "",
           "archive": "archives/foabooster/foabooster_1.0.6.0.zip",
           "parties": [
