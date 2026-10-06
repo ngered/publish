@@ -1,8 +1,8 @@
 {
-  "signature": "IE2hQ9e8ZsCQ79V2FiiMLFRkfe9niFYpWe/LDXTVdBzik6u8EbhH3MUdbFQUhotI3SqcslAPI/4DSPi7wHM1Mw==",
+  "signature": "WlIaivF9nRYdDpKdhOui1xMHtQl4Ja4q4eaSUlJSF1zBSY+5Yf8XmerVsSGVYUvCvabq9Hkzb9UwNsYT/sENCw==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T19:35:10.3637712+02:00",
+  "publie": "2026-10-06T19:38:33.9794171+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -17,7 +17,7 @@
       "versions": [
         {
           "version": "1.0.7.0",
-          "date": "2026-10-06T19:35:09.4028245+02:00",
+          "date": "2026-10-06T19:38:32.8226723+02:00",
           "notes": "mod : optimisation pourtraitement dossiers distants\najo : charte graphique NGE (en-tête, boutons, menus)\nmod : passage .NET 10",
           "archive": "archives/foabooster/foabooster_1.0.7.0.zip",
           "sha256": "cc8d7ace5fc6cb9b837a0a74d1a73a6b7c6afdc03b12c2897b7683d3ab9eccf3",
