@@ -1,8 +1,8 @@
 {
-  "signature": "PctQctpx1rjmTUo8NrJ5LRqs2aaH5LzAQ1jWN6XzDutQ1meAxDqtDgzoZXB2G/KJ91wuv+tt6zDJ2NMIw+MzwQ==",
+  "signature": "WFLBvw/AWcaliNy9eIU30UIhAwClWxCITq1kiR9gzrsw/DOS8MJEzO7/tbJUFJV5t7p5AiQSRZrut4BewAUeLg==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T03:27:25.9968892+02:00",
+  "publie": "2026-10-06T03:34:31.3086548+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -45,6 +45,14 @@
         "depot.json"
       ],
       "versions": [
+        {
+          "version": "1.1.0.0",
+          "date": "2026-10-06T03:34:30.7986274+02:00",
+          "notes": "",
+          "archive": "archives/ngestore/ngestore_1.1.0.0.zip",
+          "sha256": "a50faa43b2767b8835d165262c425a40c542e0dc4d5cc8547d19d560e731b532",
+          "taille": 179898
+        },
         {
           "version": "1.0.0.0",
           "date": "2026-10-03T21:47:56.5228007+02:00",
