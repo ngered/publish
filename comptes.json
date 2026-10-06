@@ -1,5 +1,5 @@
 {
-  "signature": "C0CkxTlwpCzJ3JN1auBq5AV7kfN3KvLSmWhUyqwSLgpdz2LpvSf+5JNs3nTmXW1Jaa8KFmVVIGBfglmV9ksUkQ==",
+  "signature": "vzCS0HB8vUGqIQ8Wm13AnUltkKUf+Zz5r/n7+f2aKj+/sj2b/Pw3VQrJ3U1mp2Pv2newr5bdNwHCLTMHzHidZQ==",
   "donnees": {
   "comptes": [
     {
@@ -27,7 +27,20 @@
           "nom": "+0EtqTqu8bayuZ/2QfAQsby++8kiUvdYxAxblJYC58wwTeNi7Ictae+ZKA==",
           "postes": 0,
           "postesActives": [],
-          "projets": []
+          "projets": [
+            {
+              "ref": "6de07b01ec194b3e9e207f0c669d3b5c",
+              "cles": [
+                "KQa5wAEqFW7plCr9w1AT2SjN7LnILhlEzRyMIxUFSSINy3gxCFNvvDy7+MGDDaN4ch1a6tjHoobd2bXU"
+              ]
+            },
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "Sn5eQuNfzaM6YWHYo2FJ1U0DzhRddhK9jxsC4I7/x5AN/RwoVbWVPS7qSmoelRq/ITck+gu3ZFqyekOj"
+              ]
+            }
+          ]
         }
       ]
     },
