@@ -1,8 +1,8 @@
 {
-  "signature": "S1fEsEsEuOPziZc4kIGUOARcNO0IFWFXEt3PwPsL/YmBc0TIM5wJoVJ3v4w7u0zCAJEdyr0KlWm88o7nqqYOog==",
+  "signature": "7ekZqT0G4OsDF5oFhVM+BVdrrMgaSA+KaDLGTT1LDRg+0YUuyT4nqycpRq9q+xc0511wGUMifuHKKTrI2Xs1Dw==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T18:53:00.9121638+02:00",
+  "publie": "2026-10-06T18:53:06.8598955+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -96,35 +96,14 @@
       "categories": [
         "Outils"
       ]
-    },
-    {
-      "kind": "qgisPlugin",
-      "id": "checkready",
-      "nom": "CheckReady",
-      "description": "",
-      "public": true,
-      "fichierVersion": "xml_info.txt",
-      "champVersion": "version",
-      "dossierParDefaut": "",
-      "mode": "fichiers",
-      "conserver": [],
-      "versions": [
-        {
-          "version": "1",
-          "date": "2026-10-03T16:38:36.9446467+02:00",
-          "notes": "",
-          "archive": "archives/checkready/checkready_1.zip",
-          "sha256": "2da30a25af45c9f8882516f6095c998f68a2b3dd2799aba17709c2353d3c270b",
-          "taille": 4079591
-        }
-      ],
-      "categories": [
-        "Fibready",
-        "Plugin QGIS"
-      ]
     }
   ],
   "prives": [
+    {
+      "ref": "f275c65f14eb4ef185ded7596095e15e",
+      "generation": 0,
+      "fiche": "S9RvwkwGJE/tV0hLJGIcdSNtWVWVOXw794LqPi6mjR6KYWHkZF4VaST7JlqB9IEpIAKGRhFiZRS/gLtTYwFaUm4vzS4zu1c+6Iw/GvIvscFXWDulBSSpArKIxLtG6JebXr/eq2BUIJuacaYQmnoM9hhYw+/NSYsqKMOUxT8hwy0xibPdkjzQmtzfoxSLsiihT9wDDwchEdScizyUV9YpVMtb4axTv3kNsiSCANnH5+ol6uAOfP0EFP9HNM87q+AD7GOYQl/ot2bk00LkyXFtc15zkimXMTH96W54TxKX1do7edhcHCHtE4wIoR2eLcg0OZ5WmHIDz0KZnyO2jquFeEnI2VaiqZP4yhmfw3eRwO7mEwiuBW4azdtVYBk+UuM4FbHZoZDpoVWmarwXPjvF8HrF+i39883zxo5OF92tAg6zN/chAxTlte3OIKJQKC1w2OFkSe/iuYJVpgMEj4w2Ly0wqml0+Kuw9rYgrQhJmALlqpKdIk/q2PTrjC3EEHCcxUp3RAZrgoHb8U/zewLAh3pxWvk37wQedV7JK1DL9GuIWjIyME8kPd1c+sl0aJVfWANkM4s9c7trN3a1nXga5hQp8e8K5zOPkSQJa/J3NyOhsyOYq8Ml9dVBFiYcWljSqXeGQtcNtp0ay/5XofpjrgLW37i91bv0dDvWb//+Po8bpxOsfd1vLx14QmR+cfqDAd2m19xzWThrtDAqztgdZIl/83fKsXrk/GmLEQkDoqcR9fIwjfjDojjUwDSY2mpXMw2OzvX5xlV/9KmBpejFgHvaoS8Ttmt5SrsZ61JClWOo6n+Sjfu6A5rhNmV8w6YLV0y7Nj0H6QQOnokuQK8hm3AOOlsC5l5CaiX6MNkCXF2cRlG9pHoTIk5G9jN8Cv04ghawvwZtheyyAByRAJwB87yElZnN3tDsIPdYeJ6BA1pS950slW1E6e3Di+xAZI0+2PUtTA0="
+    },
     {
       "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
       "generation": 0,
