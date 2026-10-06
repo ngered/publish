@@ -1,8 +1,8 @@
 {
-  "signature": "L7evmu+CddOlRNoyEnSitUW+qVuczH6y5PphAoktF4s5g1QyuZSUK6bEpu/Kk0ly4m4VR+NOsweKJy5T6/rMGw==",
+  "signature": "50bIqT56ANADAago2XgRFjcC0F6Zt7SgK/i09r7nq9GOxZRpm3+ROclyMvFtNkXMWbRsF1PajsOQ2WrkvqqbPQ==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T10:07:31.731042+02:00",
+  "publie": "2026-10-06T10:08:34.3900623+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -45,6 +45,14 @@
         "depot.json"
       ],
       "versions": [
+        {
+          "version": "1.1.0.1",
+          "date": "2026-10-06T10:08:34.3214414+02:00",
+          "notes": "Catalogue\r\n- Filtre par catégorie à côté de la recherche.\r\n- Numéro de version affiché dans l'en-tête.\r\n\r\nAdministration\r\n- Import de comptes par lot : fichier CSV, collage depuis Excel ou simple liste d'adresses.\r\n- Envoi des identifiants par e-mail (Outlook ou fichiers .eml).\r\n- Plusieurs administrateurs : un seul modifie le dépôt à la fois, les autres passent en lecture seule et peuvent prendre la main.\r\n- Numéro de version affiché dans l'en-tête.\r\n\r\nMise à jour\r\n- Le client se met désormais à jour automatiquement au démarrage (configuration des postes complétée).\r\n",
+          "archive": "archives/ngestore/ngestore_1.1.0.1.zip",
+          "sha256": "6c921531c5f0c76c6cde36737ad533fc5e7a9e47ec7fc4d56f77116d3ae38075",
+          "taille": 180634
+        },
         {
           "version": "1.1.0.0",
           "date": "2026-10-06T03:34:30.7986274+02:00",
