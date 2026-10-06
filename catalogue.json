@@ -1,8 +1,8 @@
 {
-  "signature": "7ekZqT0G4OsDF5oFhVM+BVdrrMgaSA+KaDLGTT1LDRg+0YUuyT4nqycpRq9q+xc0511wGUMifuHKKTrI2Xs1Dw==",
+  "signature": "/XC1l9/01tuLvfsh3Ft+X4wpNTwfCLBAIDznhKuXJ1RWLPveHBOzdIaMU+nEaQksx1S13m1GakZVWMsKpv187g==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-06T18:53:06.8598955+02:00",
+  "publie": "2026-10-06T18:53:13.1840594+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -133,6 +133,11 @@
       "ref": "f25c30585ac64617ab217c8fca55ddf1",
       "generation": 0,
       "fiche": "Ip4xGit8kkTryN2cK/K6cM41KQwQOIVU9xh4l/txHRGPMaAkNeUYqfBn7wIdWejYk+StHF9bTnobPjzaNaQjVqLRY1A1dHwiGJ6kWvlnr9xBabxJgllwYl8iaDP78b4N2GDPgsYY3BBDsYuSatuZSavLhBAPbftJl0fqFOdV3OY+iP79yyQKTwvYTOB8o+CQ5Ia3bjGjk1ksRnloL6qiThaLWyLMEjSPZm6JSet8E664Ux/oimX6RpZnaOJQjTpn1EHRLd2t3rExnmUCA2J5G8r6EwrVx3D2asLsPQMdDPqdL/msJize1LqNVC3rcokO62V/mk1fQr8vcnTPORLphdE1Nx+W+UZDvhWNKHBpZaSJg7tMn3X/lP84+E9Cs3k7yLpzRpv3NxH2qSKe/caAaBkrFQr4Ly7VKOBzNwpXbdtzniZWGqgdJLxqANczWqMlrVXjgtnAcJqyPnS9G0cXgyKUWuJIMnUUN4OOwmu2L6xAhWSac/5P"
+    },
+    {
+      "ref": "8eb4c4fbaa354ac5a5b6c5bbd656fe93",
+      "generation": 0,
+      "fiche": "DZVK+a8oBxlAi1uB6r+46PyfXhq9xcUP0cyFGveSsF4P5cZ5hnOijBuOizAH8To1745cfLG4QOT1UNCkdCu+dvJbVuVjD1kVJhvqhiBGxrMKzwE0uYPFaqGmZQl2IFc+kwqQGZAYWcwVz4RccSfwkuqnuqOeAIm7Mrd2BeubBtNeynUdgIYG0uVx9sjpWCdRPidFm4wk1Uqriy6pQBWPQ2MDm6GMMK+v7C+F7fHYe9u2b/UNxaUsZBFogw+FS0FRr9l1T2H0Q2GHBHE/EzPYVg3D5MJdMq2xfdVG/2ie2jonYTNsBUIEVAJxid6KuUbXWxE1MECGSS8+Vx6yi8T0KcElSKqDgkZDJxZHPqFnNUlD38bYwpLYKMYz33+X49Hbl6tQP1l2/Ck9L/sLbg/tjoqXk4K5rHMVY5DYgB0RsoRJimkiNhWlxACt/jyCWnb1pW2Fe7ryWb65go5FcyXy9cEbYeXtcVrodxiW9RR0fOiwdDsC/fh9wWDUoOBxZ4tlkSNWDB/pUvWCEwl++gSWPSuCa9eXQ+IHCJmEYwd47PzmLyR+V9/WvExhjfngSUxh+ma/0g=="
     }
   ]
 }
