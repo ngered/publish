@@ -1,8 +1,8 @@
 {
-  "signature": "mmFQdB5hSkmFTp2BmBnqPcogfGSsBRPIoScVISGOAo5Yi0ADHSgg+fxhAiyWq2R1bkFcivF5rdUwY2DzK3fKzA==",
+  "signature": "DE7RVyCW2Df3r0x7lWS3Csb8FzhOa2X/D0EC+mUy12qi19dEUvW6+/JWa4p+jR5BEsYHVtFHTd9rcITOEaXldg==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-09T13:09:14.3903008+02:00",
+  "publie": "2026-10-09T13:59:06.5540679+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -50,7 +50,8 @@
       "dossierParDefaut": "C:\\Outils\\NGEStore",
       "mode": "complet",
       "conserver": [
-        "depot.json"
+        "depot.json",
+        "dotnet/*"
       ],
       "versions": [
         {
