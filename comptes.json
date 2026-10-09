@@ -1,5 +1,5 @@
 {
-  "signature": "jCcv/G+KcQuNgOXr0J875d6E/lbCwmoiFxy5wJmRtWoHQN7ohvO86EamVMDSiuO4Oiu/4SNYK8o3br4gBbR0wQ==",
+  "signature": "qCzCKH4uhZTQatFNQCFcDje+pTwG1/RzE3e29C3jtKwv254KX15Q2ygbBkO/1G2Btpq7c+wbiNMemVwrjOv9wQ==",
   "donnees": {
   "comptes": [
     {
@@ -397,7 +397,7 @@
       "abonnements": [
         {
           "nom": "4UWOwRNWGOZuk8WDzGimltwZ4R/60Qx5rYNI95ilKWNS+kA=",
-          "postes": 3,
+          "postes": 0,
           "postesActives": [],
           "projets": [
             {
