@@ -1,8 +1,8 @@
 {
-  "signature": "DE7RVyCW2Df3r0x7lWS3Csb8FzhOa2X/D0EC+mUy12qi19dEUvW6+/JWa4p+jR5BEsYHVtFHTd9rcITOEaXldg==",
+  "signature": "OxJaQXaVmmyO2PW3JYKWZBLlWPin8AqHueQn0Mm0ORQjdPu5f2EvMhECwkf/duE1vVkQ8fwtj8fjW3KsioLokQ==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-09T13:59:06.5540679+02:00",
+  "publie": "2026-10-09T13:59:14.9595444+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -47,6 +47,7 @@
       "public": true,
       "fichierVersion": "NGEStore.exe",
       "executable": "NGEStore.exe",
+      "icone": "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",
       "dossierParDefaut": "C:\\Outils\\NGEStore",
       "mode": "complet",
       "conserver": [
@@ -54,6 +55,14 @@
         "dotnet/*"
       ],
       "versions": [
+        {
+          "version": "1.1.0.7",
+          "date": "2026-10-09T13:59:14.8381682+02:00",
+          "notes": "Catalogue\r\n- Fini l'identifiant et le mot de passe : chaque compte reçoit par mail un jeton d'accès (fichier .jeton).\r\n- Ouvrir la pièce jointe (double-clic) range le jeton et connecte NGE Es'tore ; on peut aussi l'enregistrer dans le dossier « jetons » de NGE Es'tore (C:\\Outils\\NgeStore\\jetons par défaut).\r\n- Au démarrage, le jeton du dossier connecte sans rien demander. Plusieurs jetons sur le poste : « Se connecter… » propose de choisir l'utilisateur ; « Changer d'utilisateur… » dans le menu du compte.\r\n- Un nouveau jeton envoyé par l'éditeur remplace l'ancien : le poser dans le dossier « jetons » suffit pour se reconnecter.\r\n- Programme d'installation du client : installation dans C:\\Outils\\NgeStore sans droits d'administrateur, raccourci dans le menu Démarrer (et sur le Bureau en option) ; runtime .NET 10 fourni si le poste ne l'a pas.\r\n- Applications .NET 10 lancées depuis le catalogue sur un poste sans runtime .NET 10 : le runtime fourni avec le client leur est transmis.\r\n- Sauvegardes avant mise à jour d'une application : les fichiers conservés (réglages du poste) n'y figurent plus.\r\n- Bouton « Actualiser » à droite de la recherche pour relire le catalogue (raccourci F5).\r\n- Catalogue relu automatiquement au retour sur la fenêtre restée ouverte (au plus toutes les 2 minutes).\r\n- Catalogue relu avant chaque installation, mise à jour ou choix de version : une version publiée après l'ouverture de la fenêtre est bien celle installée.\r\n- Roue dentée sur la fiche des projets de paramétrage (catégorie « Paramètres ») sans icône choisie par l'éditeur.\r\n\r\nAdministration\r\n- Nouveau compte : jeton d'accès généré, à envoyer par mail ou à enregistrer dans un fichier, au lieu du mot de passe affiché une seule fois.\r\n- « Envoyer le jeton d'accès… » renvoie le jeton actuel sans le changer (gardé dans le coffre) ; « Nouveau jeton… » en génère un autre, l'actuel ne fonctionne plus ; « Enregistrer le jeton dans un fichier… » pour le remettre autrement.\r\n- Comptes créés avant les jetons : l'envoi leur génère un jeton, leur ancien mot de passe ne fonctionne plus après le prochain Push GIT.\r\n- Import de comptes par lot : jetons des comptes créés envoyés par mail ou enregistrés dans un dossier (un fichier par compte), à la fin ou plus tard depuis chaque compte.\r\n- E-mails : jeton du compte en pièce jointe, champ {jeton} dans le modèle ; un modèle contenant {motdepasse} est remplacé par le modèle par défaut.\r\n- Changement d'identifiant d'un compte : envoi d'un jeton au nouvel identifiant proposé.\r\n\r\nMise à jour\r\n- La mise à jour automatique du client conserve la configuration du dépôt (depot.json), le runtime .NET installé avec lui et le dossier « jetons ».\r\n",
+          "archive": "archives/ngestore/ngestore_1.1.0.7.zip",
+          "sha256": "00da9406db9c1c8954ba0da62e21dc798e10cc698b341fc4a75a089eb0703abf",
+          "taille": 219190
+        },
         {
           "version": "1.1.0.4",
           "date": "2026-10-08T16:50:42.7806356+02:00",
