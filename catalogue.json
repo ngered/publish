@@ -1,8 +1,8 @@
 {
-  "signature": "pE47sRd7c3K+5kRplB5YODhOr1uzyyfIcMOl3lK/z/qhBjsKbn2Bk8uRCKIWgJvHiDak3mClArR9S0/Qzcm33Q==",
+  "signature": "L+nW72SMJ/jIGue+EFMNxaA3lKR3UUglhrKCVGxeXsIBUmI5YMx27sSVwhqoKnTmtd3JNfcZWH2m0QkgxOL9nA==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-11T01:58:36.2443974+02:00",
+  "publie": "2026-10-11T01:58:44.8628554+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -55,6 +55,14 @@
         "dotnet/*"
       ],
       "versions": [
+        {
+          "version": "1.1.0.8",
+          "date": "2026-10-11T01:58:44.7464829+02:00",
+          "notes": "Catalogue\r\n- Dépôt injoignable (pas de réseau, GitHub indisponible) : NGE Es'tore s'ouvre sur la copie du catalogue gardée sur le poste lors de la dernière lecture réussie ; les applications installées restent lançables, installations et mises à jour reprennent une fois le dépôt joignable (bouton « Réessayer »).\r\n- Mise à jour proposée : « Lancer la version installée » dans le menu de la carte permet d'utiliser l'application sans la mettre à jour.\r\n- Lecture du dépôt plus fiable : nouvelles tentatives automatiques après une erreur passagère de GitHub (502, 503, 504), adresses github.com/…/raw/ lues directement sur raw.githubusercontent.com.\r\n\r\nAdministration\r\n- Les « formules » s'appellent désormais « packs ».\r\n- Groupes de comptes (menu ⋮ « Groupes… ») : les packs d'un groupe s'appliquent à chacun de ses membres en plus de leurs abonnements propres, nombre de postes par membre ; créer, renommer, ajouter des packs et des comptes, envoyer les jetons à tous les membres, supprimer (les membres restent, sans groupe).\r\n- Comptes : colonne « Groupe » et filtre par groupe ; groupe facultatif à la création ; « Changer de groupe… » pour un ou plusieurs comptes (un nom nouveau crée le groupe) ; packs du groupe affichés avec la mention « (groupe …) ». Quitter un groupe retire ses packs et libère les postes activés à ce titre.\r\n- Abonnements : groupes abonnés listés avec les comptes, postes comptés par membre.\r\n- Création de comptes par lot : colonne « groupe » (compte placé dans le groupe, créé s'il n'existe pas) ; groupe commun à tous dans « Depuis des adresses… ».\r\n- E-mails aux comptes : les packs du groupe figurent dans la liste des abonnements.\r\n- Liste des projets : filtre par catégories sous la recherche, choix gardé.\r\n",
+          "archive": "archives/ngestore/ngestore_1.1.0.8.zip",
+          "sha256": "ffac4b4559a1167e5c6ed4763865c4100db37f38ca82790c45117dcc81d961bf",
+          "taille": 228681
+        },
         {
           "version": "1.1.0.7",
           "date": "2026-10-09T13:59:14.8381682+02:00",
