@@ -1,8 +1,8 @@
 {
-  "signature": "79xHvg4tx/N+beU90Q4NRgVhqb+kPutxnY/dja2TO7SAbS/+imRGahAv8YizuqpmAy8XtyDOwGG5AJsy2Bx1wA==",
+  "signature": "ZlCnenlJLouYIue1lTmQPxPO2xrs4D4X37k0Rubq/Eb2p8R5lkNsLRP9z2jn3RxIqQYfqawfn8eAgJkTREIgbg==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-13T18:05:07.3937237+02:00",
+  "publie": "2026-10-13T18:05:35.9653141+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -139,6 +139,14 @@
           "date": "2026-10-04T22:38:23.3187921+02:00",
           "notes": "",
           "archive": "archives/net10x64_runtime/net10x64_runtime_10.0.12.zip",
+          "sha256": "b6156d2effdf456377c483a06486185ddd30403b361083704155c328d056cfcb",
+          "taille": 73281061
+        },
+        {
+          "version": "1",
+          "date": "2026-10-13T18:05:34.9369247+02:00",
+          "notes": "",
+          "archive": "archives/net10x64_runtime/net10x64_runtime_1.zip",
           "sha256": "b6156d2effdf456377c483a06486185ddd30403b361083704155c328d056cfcb",
           "taille": 73281061
         }
