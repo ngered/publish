@@ -1,7 +1,7 @@
 {
-  "signature": "O0C42EJ0Qdfc76pQjEal+Ttv2kRyOHWjR7wML42ih90ttovWx7uEE+3HqL+ux/yWHFEPDfbHZ7qS/YuaHw7sww==",
+  "signature": "cT6feIdIsG4Ub3AcT04E3x5VdlZWmJHhQgDEG8CfLEx5/RHbrWf4PaFA1Sz0Bq97Q6im7u5If+r8KKVl128Hdw==",
   "donnees": {
-  "publie": "2026-10-13T11:10:45.8254093+02:00",
+  "publie": "2026-10-13T11:18:08.1267124+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -512,6 +512,97 @@
               "ref": "a8e100d4f0b14901aebe33bb5fc4de41",
               "cles": [
                 "Ltb8N9uJz4lJNx93j/dyR4xkZ4abSAJlCUX3POg6cbhO97EkXPoqUs1or8j1z0m+l86czZYiEEKG07Ld"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ORhkhuMSdRNfsqzxidh3foC",
+      "actif": true,
+      "sel": "RExOlkWUqVfJSeyyLwgMbw==",
+      "iterations": 600000,
+      "verification": "0hSdNO1i8x8wVUgVNpLsUemzMM+0qSZEtjBNfmDTbK8=",
+      "cle": "zkcUBbB2yPX8L964WtSuXy0FZzaTnCI4L0n5gt3Lhx8J6HNEtoyoopNEeM85QCLH13Idi7iX01k2XDxD",
+      "canaux": "TfZYvJzCIaF6rpYq1W1mLNVMZVjYpBcaeN5PFEJqV/CUcOWxsVgwCpLTDrnhL4HygLqyiL89qnJdTa35X5A9h1X0EN5hEBFxPK7mhi9u4hGOjpSgYzXjkxG51BKtQbsMKkHTdOCXmsl4mtnuU1OZRBSvcYMwiriLBroCUoQcBHEBJ4JjDQiNyZnAKa/taS29kso1NYjW2HoHvuCT3/lCxskYfecZcFLYBx9JtH1a2dnQlc4YNKB+6uZpS77umLJ3qyGjC7QahI4Oy0t5dxp00M1JkOYKUZk6J8ULBvP6R0FrCmYz48BKQCMQMGhiXjGe7rOWXzJopyJUCxhZe84aEVBWbMQWldGZoBckPnppYnjYSFpt+BjWmN01qAWJg/u5XdpoigTpffAuZmAmKiVR8TA+nsTzDDVslmq7xuB5xjGj76jK0X5bdY3tkQBXxfgePQ9iWtYehl9XVXnO0fU4mFZhSrSQDRwAxftd1TWMC1iaw9kKdSrpgoZJ1xKIKgP5yWKwhuUxd5ueuXqYqIg1rL7fKPAACKbSjN1RvjYYzrX6n/Wbqx4TwCVXC/HzkjxQ5xXH5nz3oA3KH9sO7CFREhIIMOpAiPtCA7rlr8t+mJjRwJRQxqxXlKB3r/jyHRvj0rtVww==",
+      "abonnements": [
+        {
+          "nom": "wF0dvoneB3hOt7myfxoFRAZ5fkxcg5U83AaVSRz6zhSOsz8B7FLz6w9YPQ==",
+          "fin": "2027-11-01",
+          "postes": 3,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "6de07b01ec194b3e9e207f0c669d3b5c",
+              "cles": [
+                "tQmDHFWLFIv4H7WGjbtY8SM5rlq7A3mLniGMgL+A6xb0tsT+Gj3UXf3ZG8zImSJbAe7CZ8vv48QfpXXJ"
+              ]
+            },
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "N8LbQ39EoB76OxWJKwN850FeA2S3agaphb++HmEjROoRXQ4dKpGHlXqyMbD1PL8XH0gVG4rPPLsJEdAE"
+              ]
+            },
+            {
+              "ref": "3197a809b22140739f98b97336cba5dc",
+              "cles": [
+                "D/Wq/DBUrK0qfyMrHLkbkkw/IgfT7hj7yY1WX6ptBA8j2A8hrHQ0tEtkcZlyzGtru0xbyVoW8lb6dtEA"
+              ]
+            },
+            {
+              "ref": "477c477d62dd4927b5c998c588dc93b2",
+              "cles": [
+                "9ncRxpurKduIR5gqa+JfGdOD6TOULodNFlQEH+e4bAWGf4dNFOnnTEjNEOt7/eu6FHXt1a+JFB2qGnpo"
+              ]
+            },
+            {
+              "ref": "a0ef56b041c54c8892aa0c15f223f71c",
+              "cles": [
+                "94yU8j3EJVwFLOuek7vr8hiuKPFlSyNsstRqS6qimtFs8Ekl8CScO+xRlp6Zxv7hC81S4Un7fo0qCzpl"
+              ]
+            },
+            {
+              "ref": "f25c30585ac64617ab217c8fca55ddf1",
+              "cles": [
+                "93+AtQX4FpRfw+WcXNbsgdKS6cFtyoKaMTl0Kq0A4E30wtGKfIjCROhee9tQEb+5eSgNqZZuosXDZuIG"
+              ]
+            },
+            {
+              "ref": "8eb4c4fbaa354ac5a5b6c5bbd656fe93",
+              "cles": [
+                "jNzjLH2o8Ecahb+a0nQ/UMqZvKIBrUoPAyCYqpgMU1l1vIBlDr3ulyTBpPQSKK4jFY8TlXFzji80AEIr"
+              ]
+            },
+            {
+              "ref": "fbb28240d2e644d3b3ac054861c736ba",
+              "cles": [
+                "pu1HsekiVkZchA95kUQGYG+r3WZpJ/+D5RbRTfJ4QQ1/oypmiefs1vBFuOsd14OU5mc/wFtv8kMd8jzO"
+              ]
+            },
+            {
+              "ref": "64ff795f6de647acb3ad94f46aeb77ec",
+              "cles": [
+                "LDwXTaQXM8bQyMVi4pmWkd0cyZZLZEP4MHz7gUcWMm069EJ4RmCipkwZxGgN6dp2polCpE0briw9deAU"
+              ]
+            },
+            {
+              "ref": "a8e100d4f0b14901aebe33bb5fc4de41",
+              "cles": [
+                "mFG2BSt0GuBeJjvyiRe0sOrAFnFb0K1IGAdsJjcwfSezlu8+Wrv6wD1+C2cSOw53q+8sJmePZ6UV1egr"
+              ]
+            },
+            {
+              "ref": "da134c1e27ac4c0696a20fdc58f225a8",
+              "cles": [
+                "ifHYKjqy7eD6GprSLxeeG2sWNkWnH/V98PfCZgNsaL+eHLLmMX/SUdufbB8fKY7KRC09LXa+j+N8eUeE"
+              ]
+            },
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "cUWc097ILfb8zZ9E+qswZGclWJB/u2xAytsAM6y02Y5N83kVjMI36AOj4KOO1GRVUb1lh2v/jzqXbbC4"
               ]
             }
           ]
