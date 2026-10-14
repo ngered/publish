@@ -1,7 +1,7 @@
 {
-  "signature": "zGcE+YCCwdSY/ur2njDMkfQZ6z6IwMAjCWzvZeS9+k+wrs69ltWKCOKJBssc+iOYFfzN//NDdbfVLARaDr6ftA==",
+  "signature": "cP73oOq1BmKw1FkrNxvP2mWm95jtm00o+U8Qyl8DJTh1v0PrrHmkKSfYIODpSp5epUAVrMvRFZMYj2C6Jh+UXw==",
   "donnees": {
-  "publie": "2026-10-14T16:54:06.2224316+02:00",
+  "publie": "2026-10-14T16:55:02.2622919+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -152,12 +152,6 @@
               ]
             },
             {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "Sn5eQuNfzaM6YWHYo2FJ1U0DzhRddhK9jxsC4I7/x5AN/RwoVbWVPS7qSmoelRq/ITck+gu3ZFqyekOj"
-              ]
-            },
-            {
               "ref": "477c477d62dd4927b5c998c588dc93b2",
               "cles": [
                 "YbXuwgw/KdogubQSDHEUMD1A/OqvJUb3Dt/jKP/XP3Z4lHWLr/+0UER22Nq77U5m3TBjmy5pyCTjrrG7"
@@ -252,12 +246,6 @@
               "ref": "3197a809b22140739f98b97336cba5dc",
               "cles": [
                 "ixXo2ITFLSfp3s5TRjRPCHGBBQ/D7PZqWukRbCIxy+DvIbkBap7m7t8onSoFGRte+tmfCh03b+ykxHEr"
-              ]
-            },
-            {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "HK59eKan41XKSGOFhbskGfqDvryuvw0NxIVmPSbQ2wm+HPBx5btSidRj6OwmexAfjqiM3YxS8v53WB2X"
               ]
             },
             {
@@ -386,12 +374,6 @@
               "ref": "3197a809b22140739f98b97336cba5dc",
               "cles": [
                 "HwvT70UvYc1qVgrVELpq06jSO5eSozny4DfXf9lx5neN7hTBqhx/mQCeVxY+L6gW9VLpvz7nTYVL6QtO"
-              ]
-            },
-            {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "eKM03Rr58RJ3An39Ad2pPMKZLeSgTAfaFTNKS8R8AeTKQYHy24DW06mJyckvZHw4fKCk1ZubkOTp951C"
               ]
             },
             {
@@ -666,12 +648,6 @@
               ]
             },
             {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "cyagRc8MDki0CoIDBUobZcqa0GjuRW+tM6NGJ/1WI1fYkws5zFYuMiwUtjcS6NPCPkW0dZvfIoGhg4o/"
-              ]
-            },
-            {
               "ref": "477c477d62dd4927b5c998c588dc93b2",
               "cles": [
                 "1rG1+rCJit9WG0e8t7j84O2v8xbI1i3l1w16LvhHW+8zwSAnNTipx23m8JUXN5KwATMSsnOcvrqZzlrF"
@@ -750,12 +726,6 @@
               "ref": "3197a809b22140739f98b97336cba5dc",
               "cles": [
                 "D/Wq/DBUrK0qfyMrHLkbkkw/IgfT7hj7yY1WX6ptBA8j2A8hrHQ0tEtkcZlyzGtru0xbyVoW8lb6dtEA"
-              ]
-            },
-            {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "cUWc097ILfb8zZ9E+qswZGclWJB/u2xAytsAM6y02Y5N83kVjMI36AOj4KOO1GRVUb1lh2v/jzqXbbC4"
               ]
             },
             {
@@ -1064,12 +1034,6 @@
               "ref": "3197a809b22140739f98b97336cba5dc",
               "cles": [
                 "gq8O/nUTutFkDa6I0T7vSOFuoNf4B6/vyd7Wul+X8LlYf3IO5JdrJ3xmRQ8IgqU8yMaPquT2OsUpi+DS"
-              ]
-            },
-            {
-              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
-              "cles": [
-                "EFzWOzl1Q3FT7Kb5jE4NXk8jgdjr6oMZGopckBiiaJM2UnJnKGoDGRmgpKqCEasXLscfTSDYZeNZS+O6"
               ]
             },
             {
