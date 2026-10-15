@@ -1,7 +1,7 @@
 {
-  "signature": "Pr7RcRBlBRaA38990fx7n8yLjSMRK8jkWw00niQYjZAOdwvr5bHXMtwGRs6O4LqmmegzKTp/EHrII+Q7ztTsZQ==",
+  "signature": "1iBn0RYOPFNSCEO0luvHraHgeKoO9zsvo7zYf77iC4zdBgdxtYlQHEXHMMdm0MrJQGSxrIwOLb6vqUfn3nyY2Q==",
   "donnees": {
-  "publie": "2026-10-15T13:46:14.6122674+02:00",
+  "publie": "2026-10-16T00:08:36.5320222+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -93,6 +93,12 @@
               ]
             },
             {
+              "ref": "e6703c99df204682b5b851c39782c391",
+              "cles": [
+                "QYGVAurmacsQRzz4mKRAJz+eue6MItuZ5+OshxSvN2UKoXyfzzOY5qzpnIugimOyKR97epgbYIstEMbh"
+              ]
+            },
+            {
               "ref": "8eb4c4fbaa354ac5a5b6c5bbd656fe93",
               "cles": [
                 "s5jWDTdfHBNPOhKZU+1XiCxDaecH6//mDKL7xRexnTCwQ2hsD0/+Hz/zZjkmmBhfgWSExCSGuHhutAJr"
@@ -126,6 +132,12 @@
               "ref": "eedc0550378a4a408895f9055cf1a427",
               "cles": [
                 "FeeRTwDcrmSvQJvgm5+jybqYkxJi2FkH77NP0LYGLBb68gUaIVGwlE5/DFnwv3+Hv5YYAbvT3rDzk7r0"
+              ]
+            },
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "/wpa3P1vUxqnT4A+pIDp9oLy8RLve2bo6DPlGkvchZX81/nJpeEdn6sbZMa/t0h0osPUMIIG7rpAJeuy"
               ]
             },
             {
@@ -779,6 +791,25 @@
               "ref": "fbb28240d2e644d3b3ac054861c736ba",
               "cles": [
                 "pu1HsekiVkZchA95kUQGYG+r3WZpJ/+D5RbRTfJ4QQ1/oypmiefs1vBFuOsd14OU5mc/wFtv8kMd8jzO"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "u9+/BSBQ6jUrlAzLN/K/u3l3PZjAiKndu6znOzWSr0BTdplvkw==",
+          "postes": 1,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "N8LbQ39EoB76OxWJKwN850FeA2S3agaphb++HmEjROoRXQ4dKpGHlXqyMbD1PL8XH0gVG4rPPLsJEdAE"
+              ]
+            },
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "cUWc097ILfb8zZ9E+qswZGclWJB/u2xAytsAM6y02Y5N83kVjMI36AOj4KOO1GRVUb1lh2v/jzqXbbC4"
               ]
             }
           ]
