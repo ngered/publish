@@ -1,7 +1,7 @@
 {
-  "signature": "T3LDVM0ASt5FSMJvpKZRmyBARE6+IaGZMa+9U/V/jJSJphZ64MXcRxTjuq/god+LCROq0Zhv1ZrxGTL6mJf5lA==",
+  "signature": "w/rPSmqCZhlrcftxGMsUuZTtc0+R3KvH2Z/oyRv44LZKMtahISxkq43x8A2xhrQX4Dft4tlv4afMX8lMynXnPQ==",
   "donnees": {
-  "publie": "2026-10-15T11:27:19.5595366+02:00",
+  "publie": "2026-10-15T12:25:16.4357704+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -1019,7 +1019,52 @@
       "verification": "7Fpef5cbxtlGDTFGIHhuoZC6r8FLvFA5C6spqrUEiy0=",
       "cle": "5fPKdS6KcLxG1OBEhy/pXqTcch+krTusyLRKtxcsvU+dX/ypJx/4OC1zLff/9PF/cyHB81gVn1TCU7NK",
       "canaux": "vQi1jmInocNcqr+RnxDCbO+k93RzKKcjzaYq7KwETlsJf3+AmGSN0erOyiaxdC7ep7CcGXhL+k7J/cQnVOMTStPK8BuqnRXWd5x/B3whWoORWkct4r7thD3aYqFrD7CQUetc1/wcFgwIksba9qS4egKv31pAofJ1OZlfIWxO3fMA+LAfiAe0tPlZ5x1I1nq2Q85nzuQIbxok6cFPvp9fwJ/B/uAJC31+k9E2V2ZJKQ+2Oo1IB2VDu3+Gyo9zfCBriWHExHvnT+8JwO9GiGsSpYj2XANBqUlbFzCqrlKPOI5YT+Tyr0i+bUjtvbcqaCm0dcyEVK4/RT8tmasZgN2Bi7pmuU/LbSd63mkZ3g8eZMmpcq2BD0i9mvVNi4ljVDmMPeGMjPRFxLiqK60RYPlglNRHlLr1WF16eZgVAeUFI40u1kL3HMAWhM2ilRk7RBouHac5QyRRZCHO5JxJEQ+ckU9AQOTuBHG4UI6T5cOaIhr73nSoxsJXwQSxgl75jcAbzGGF0VTu/6BKkKavL6msv/ZesNWBVM20X0cyRYHqq0Y9yxbXT7EbrQT3YPZu9ovBfkN7sEL8zFoOm8qD0/k80egrQ+IE4inkKS2AidEPPMsQ3mtaKtIkFwk/CYo6AOFUHU5+vw==",
-      "abonnements": []
+      "abonnements": [
+        {
+          "nom": "kbE0q9+K5wcNmCxqrfk4xfDatg1EJW2EiXptzOi5M2h+ymWczw==",
+          "postes": 1,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "iSZB+CHGcYAT19pUIK/JpaivsoRS9pHlha6DqJOa/atgaP2my4Lp4Wl5FxLawuyl/LWVjwc6eAutRmS/"
+              ]
+            },
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "mX5Ws8VjLCrqNZrB3PaKlKbPUzmVu0l/KmXvWX/bNCzR/TExfC5dCMCskaue94vzEF6a314vav38eW0Y"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "TJ7CRe/yw57+VLJoyfksI2EXVOUh6BU5EuGR4Ir5u/Hy1jA=",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f25c30585ac64617ab217c8fca55ddf1",
+              "cles": [
+                "yPm9PzVUT6YG4ya5KhUokUhOA3lKWARK+Qq/BKjHWrZMbwNIT9E/+n1xS4apyB5tqZG7I4lgg0+56Mp1"
+              ]
+            },
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "iSZB+CHGcYAT19pUIK/JpaivsoRS9pHlha6DqJOa/atgaP2my4Lp4Wl5FxLawuyl/LWVjwc6eAutRmS/"
+              ]
+            },
+            {
+              "ref": "17f1949f28ef45a9852b9a9537cdeb8a",
+              "cles": [
+                "uYd/yk11j1aXf/ZyS/D3ZCuwk6rpSgN4hIAX6BNZ/kSvpAMxIQmpXVp/vkBIwpcWZUe4bS2K5TeWvt2K"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "wwP2DjtLT14Vsd8LhZ1ub3sI",
