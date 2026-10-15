@@ -1,8 +1,8 @@
 {
-  "signature": "V4GfgmjycO8qCvUsWh3H3BS3bKtVhYLsfPgZuONSBoDYiSPQAucq813r/Mn7jAF7d51jrqfecdDJ203UojR6tQ==",
+  "signature": "y760ooKkHRkrx1LAsVrb2/iAEUl5Cqi/fePnjEAf53ELYeMA5gzME7IV4m4I+gJOd4gBH8pRnNXXQ6g4whracQ==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-15T02:20:51.5655376+02:00",
+  "publie": "2026-10-15T02:20:56.3296849+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -15,6 +15,14 @@
       "mode": "complet",
       "conserver": [],
       "versions": [
+        {
+          "version": "1.0.8.0",
+          "date": "2026-10-15T02:20:55.7108186+02:00",
+          "notes": "",
+          "archive": "archives/foabooster/foabooster_1.0.8.0.zip",
+          "sha256": "02248f7f46062060aca0fb86efab810f79c29f227fac4e16731ac73b7fbe9c32",
+          "taille": 48459274
+        },
         {
           "version": "1.0.7.0",
           "date": "2026-10-13T18:06:56.7841463+02:00",
