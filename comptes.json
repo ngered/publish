@@ -1,7 +1,7 @@
 {
-  "signature": "xtHGK6m3guCNHBqhACHocsKXbMmjA3mcALynhoCJbxb52Y5IZjpXZyeKpVgeDN4O8A8IKoGbhnqfSDs+sFRpHA==",
+  "signature": "U7uQWG9Nt4Y6jEWFxxm2toSMLTJ+3hq5esYYoETBp/KstictpUG0bBd67QGtmavBjYtdL6UfBuZOqQxQ/jF42g==",
   "donnees": {
-  "publie": "2026-10-16T10:58:01.4459186+02:00",
+  "publie": "2026-10-16T11:24:40.3399294+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -1151,7 +1151,9 @@
         {
           "nom": "8/fUfBp261sMUraDrqUNE5oxIWyq5xoLUxFE+0+bgQt/ubqklw==",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "D8ME-CSHQ-U4AG-P9T4"
+          ],
           "projets": [
             {
               "ref": "a0ef56b041c54c8892aa0c15f223f71c",
@@ -1219,7 +1221,9 @@
           "nom": "T5yxslK60a7rm8nBbBaUznvLK+xfSPhiaqw173p1Fpw0Ia2mkA==",
           "fin": "2027-10-14",
           "postes": 1,
-          "postesActives": [],
+          "postesActives": [
+            "D8ME-CSHQ-U4AG-P9T4"
+          ],
           "projets": [
             {
               "ref": "f275c65f14eb4ef185ded7596095e15e",
