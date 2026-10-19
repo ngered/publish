@@ -1,8 +1,8 @@
 {
-  "signature": "xRgYcf13tHoojRWNkIwuXRNhklJSeu7wOL4BlDOwa0PwndJuh2L+9KaEq64UXsVHjmLoldiVINHQlQ8gbxF5gg==",
+  "signature": "fOxKYza/VOQReftE4jHFPtTbXc3/+p2kl13Bf1dPfM9Vg9bAslEqM/Tw/gxP79j3YGiqXCAFn/RYqLKRGyKStw==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-19T22:37:19.6446782+02:00",
+  "publie": "2026-10-20T00:14:38.2874148+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -63,6 +63,14 @@
         "dotnet/*"
       ],
       "versions": [
+        {
+          "version": "1.1.0.12",
+          "date": "2026-10-20T00:14:36.3674659+02:00",
+          "notes": "Catalogue\n- Dossier d'installation non vide qui ne contient pas l'application : son contenu peut être remplacé après avertissement, au lieu d'un refus ; il est d'abord sauvegardé (« … » > « Restaurer une sauvegarde » pour y revenir).\n- Version publiée avant que l'éditeur ne désigne le fichier de version de l'application : installée avec un avertissement, la version du catalogue est retenue (l'installation était abandonnée).\n\nAdministration\n- Fiche d'un projet : changer le fichier de version alors que des versions sont déjà publiées demande confirmation ; republier la dernière version avec ce fichier pour que les postes puissent relire la version installée.",
+          "archive": "archives/ngestore/ngestore_1.1.0.12.zip",
+          "sha256": "b13eeb11008cd1c9787ce6e61201b0eb522116c5f4b9dcb901fb09bd8196aae4",
+          "taille": 261407
+        },
         {
           "version": "1.1.0.11",
           "date": "2026-10-19T22:37:18.1238625+02:00",
