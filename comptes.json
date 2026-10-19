@@ -1,7 +1,7 @@
 {
-  "signature": "8FByjPw5E7Kp3U4lIlHRkAE9iBd/P0Nv6KBTCr3EDWMkKSJswAQaGT2xGwRqk2FD1xMgGYQE97oCVpq7Yi7MdA==",
+  "signature": "3EXPhHDRBg9LGfYBmOQtyhoFfK0bWIwMOiy9Re57bfU8LzjcrrMW6gKqgvZUb1w2B6kp+g69MktSymg+z0bIWQ==",
   "donnees": {
-  "publie": "2026-10-19T17:17:52.9543508+02:00",
+  "publie": "2026-10-19T17:20:58.9423552+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -545,6 +545,25 @@
               "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
               "cles": [
                 "eKM03Rr58RJ3An39Ad2pPMKZLeSgTAfaFTNKS8R8AeTKQYHy24DW06mJyckvZHw4fKCk1ZubkOTp951C"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "f8DiH76uqAFBBCKmzwkteQycMQ2VrKSBATnokJx+3yypJO2G+LDKQ+izbok=",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "e6703c99df204682b5b851c39782c391",
+              "cles": [
+                "dgDVOQjosjfycY7yM8aiNSyEe5k4KhE+gyk/6HZnfSHLOaVlYenBuGR2rAYHF33CqNXKKcfjQb6+Eo+D"
+              ]
+            },
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "IXPRM1LZjNfjE8HyQCjEM1LEJqVZzQB1VLpl5bFIOgmRnmGbZFKaDHjGLbpdl6+3Aj4mea6H1tCxCjnx"
               ]
             }
           ]
@@ -1426,6 +1445,25 @@
               "ref": "73cc5a9003c44ef891bb87b0b45cb934",
               "cles": [
                 "05dMiokaQgv0b2IQS5T3SviTlXkuXHmHDA58ga0hUV+uihLaPeoTCFmJNQSSoYpvQAelPxIKRjW9czhP"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "ZDsa1ZIv96Fpkka7tC4TRV+5GeP7C5hEBTdHvE7QrbcolEK+aVZSqWu+ReI=",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "e6703c99df204682b5b851c39782c391",
+              "cles": [
+                "JwLauL7EqEXsH0Xqqf/UJO09TipFOTeONr5nSUqCxJRi35WUblocqRN34DFoUbHIs6QjlC5WEgLdd0w6"
+              ]
+            },
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "ljiM3TAO4WIHWtLQCe1GT0czIj/C/bkoGE4Nt7ft8EUSxFLgATG0h8ffli3T4cfvrluSXNCk4WJovXir"
               ]
             }
           ]
