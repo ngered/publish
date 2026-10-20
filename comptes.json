@@ -1,7 +1,7 @@
 {
-  "signature": "hJwYPgu6RDuOmBlrkVCks+hnSkBsM8mg+EBLyD1JPSod7pxweQP6PIwjS6rQ/TUQkIiHeRJsV54KVH4WXZtACA==",
+  "signature": "hBkporrsXft9T5A9z668ieMocuMOgmGDCJfmhh+7as+115mws5mGePaE4GhtXzqZvkipSLaH6rvFf5hBkV5RLQ==",
   "donnees": {
-  "publie": "2026-10-20T08:44:54.4130284+02:00",
+  "publie": "2026-10-20T10:19:27.0945122+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -258,7 +258,9 @@
           "nom": "LEYizEiZUbl0MKu2ip5BH/VTNtIPLTUpe88145sjA6zGYEZzVA==",
           "fin": "2027-10-20",
           "postes": 1,
-          "postesActives": [],
+          "postesActives": [
+            "UCFX-J6RQ-6EUD-SQKF"
+          ],
           "projets": [
             {
               "ref": "f275c65f14eb4ef185ded7596095e15e",
@@ -277,7 +279,9 @@
         {
           "nom": "e9du9j8gP6qu7k1T67oVKl2QYcm/uroTc3V8HQdwymoqN21tfg==",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "UCFX-J6RQ-6EUD-SQKF"
+          ],
           "projets": [
             {
               "ref": "a0ef56b041c54c8892aa0c15f223f71c",
@@ -344,7 +348,9 @@
         {
           "nom": "uKpWarZP0udkqr8d2bgqADtmmmSo2YbsgkSlHRzUC10yGY1LBHQ=",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "UCFX-J6RQ-6EUD-SQKF"
+          ],
           "projets": [
             {
               "ref": "f25c30585ac64617ab217c8fca55ddf1",
@@ -369,7 +375,9 @@
         {
           "nom": "bBt0lqG5PhAy9O7oJUP4x2j3TdUfmdx3NdbNwNg0iwRBgh1F",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "UCFX-J6RQ-6EUD-SQKF"
+          ],
           "projets": [
             {
               "ref": "f25c30585ac64617ab217c8fca55ddf1",
