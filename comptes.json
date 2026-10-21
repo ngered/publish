@@ -1,7 +1,7 @@
 {
-  "signature": "WHOWQehJ+NrNRxp5VpbRgnizdFphYciyBU0IEQdAfdLNNj63AFZ7MG2PTZSKdq3KXUoCtibARQizCVCOHpCPBQ==",
+  "signature": "rISt8IscVvmq+zNfwfhUJgtTIuy/uH1wUgd+34k7S+TdeuMihI4wayjx6eAjxnMzEWOs99jFFWMTTrfYUUQ+dw==",
   "donnees": {
-  "publie": "2026-10-21T08:46:55.5521791+02:00",
+  "publie": "2026-10-21T09:01:54.6548459+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -1737,7 +1737,9 @@
           "nom": "Huoc6753ovtfbYjLhEfzj9aanHA0KqDsCJjP4gi60hYV/rDreleLBw==",
           "fin": "2027-10-20",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "FZ5U-FEZA-DWPQ-T3DL"
+          ],
           "projets": [
             {
               "ref": "a0ef56b041c54c8892aa0c15f223f71c",
@@ -1781,7 +1783,9 @@
           "nom": "XbnOzPD9k2yFtlqqcitB0qagcpTcBO5GUeWEtqhMIvN9KskSZw==",
           "fin": "2027-10-20",
           "postes": 1,
-          "postesActives": [],
+          "postesActives": [
+            "FZ5U-FEZA-DWPQ-T3DL"
+          ],
           "projets": [
             {
               "ref": "f275c65f14eb4ef185ded7596095e15e",
