@@ -1,7 +1,7 @@
 {
-  "signature": "s/y9FlFdTFdlWUyPHO8b3+DI9bWDI602R++s6/H2O5zBo9nZZQG763bd12MAZ89DukZ9y5E8yYWC7Ok4suM79Q==",
+  "signature": "xcuEgX5mJV0crCImrwN/nL7j3C8gopqK2Z/qmc6V6nTxRo/sDyBs+H//2a0aFJd526Lq5adKRahsbfsVS/NE0Q==",
   "donnees": {
-  "publie": "2026-10-21T11:51:02.9764309+02:00",
+  "publie": "2026-10-21T11:56:03.0239862+02:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -1954,7 +1954,9 @@
           "nom": "ikqzCw0oRLjkvQx25ZpNcAluHwYQlv4PxX4zqJpaySDS+aum5taiYQ==",
           "fin": "2027-10-20",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "8DWK-D8K7-XACA-93MQ"
+          ],
           "projets": [
             {
               "ref": "a0ef56b041c54c8892aa0c15f223f71c",
@@ -1998,7 +2000,9 @@
           "nom": "EQWoD4XBe9hTpC3mzbfovSwWn8RSJw2JC5zoxpf5Snsy4Evn6Q==",
           "fin": "2027-10-20",
           "postes": 1,
-          "postesActives": [],
+          "postesActives": [
+            "8DWK-D8K7-XACA-93MQ"
+          ],
           "projets": [
             {
               "ref": "f275c65f14eb4ef185ded7596095e15e",
@@ -3078,7 +3082,9 @@
           "nom": "ZlPEKM85MjatG3+Xb0KlZqT8f9HDiavzknIOVD09b2iAW4bciXrDJg==",
           "fin": "2027-10-20",
           "postes": 2,
-          "postesActives": [],
+          "postesActives": [
+            "3TAD-KKT7-QGH7-2DPY"
+          ],
           "projets": [
             {
               "ref": "a0ef56b041c54c8892aa0c15f223f71c",
@@ -3122,7 +3128,9 @@
           "nom": "6m7kF9LD1QOpPYykLjPX16oUtDbT2hEPLTGG+dw3l7v0bwyPvQ==",
           "fin": "2027-10-20",
           "postes": 1,
-          "postesActives": [],
+          "postesActives": [
+            "3TAD-KKT7-QGH7-2DPY"
+          ],
           "projets": [
             {
               "ref": "f275c65f14eb4ef185ded7596095e15e",
