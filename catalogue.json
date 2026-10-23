@@ -1,8 +1,8 @@
 {
-  "signature": "ml9IuQAHPU0ZJrmDd+sMknXbKdzvWs0r6ZEHKIIBq1B3i1LZ/gK3UuZcyLvAnLrxWdH/9FqEk0d3Dh3g3UXpKA==",
+  "signature": "Qs7B91G9Cu4YeUCjoQiHNwqKer3qh//iK3GpoPp4uJtjZGhOGkmJJ66uKiiTQfpeO2GajUhmktdtiip7zC/UEA==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-23T09:53:55.7028239+02:00",
+  "publie": "2026-10-23T09:54:14.9210918+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -63,6 +63,14 @@
         "dotnet/*"
       ],
       "versions": [
+        {
+          "version": "1.1.0.14",
+          "date": "2026-10-23T09:54:10.9741661+02:00",
+          "notes": "",
+          "archive": "archives/ngestore/ngestore_1.1.0.14.zip",
+          "sha256": "7756b8f298d31adf901d0f341129eb59c978004dc0b85b0328139c6c6dd3cc6e",
+          "taille": 285769
+        },
         {
           "version": "1.1.0.13",
           "date": "2026-10-21T19:59:05.1520263+02:00",
