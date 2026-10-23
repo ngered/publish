@@ -1,8 +1,8 @@
 {
-  "signature": "zo8jJlK7QIQnjjDGt67PoobGT50v0nMJmk5X1587PO7JOFzT4Mys7ZZF3wV/CY5QW4nOQdCa0bzaf5/yS4UeBQ==",
+  "signature": "t8bUruSMGw98MvxmQVu3yqASSGQQPpt2W+uqhzRKjp/PfODYK9xKPobhq5cINSs6vwlZrXNCbcBps7X6/JmYZw==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-23T13:33:26.2993581+02:00",
+  "publie": "2026-10-23T13:33:41.4624913+02:00",
   "projets": [
     {
       "id": "foabooster",
@@ -15,6 +15,14 @@
       "mode": "complet",
       "conserver": [],
       "versions": [
+        {
+          "version": "1.0.9.0",
+          "date": "2026-10-23T13:33:40.0728939+02:00",
+          "notes": "ajo : guide utilisateur PDF, accessible par le bouton Aide du bandeau et la touche F1\ncor : dossier de sortie vidé même avec l'option « Vider dossier sortie » désactivée\ncor : option « Lien vers classeur d'origine » activée par défaut au lieu de désactivée",
+          "archive": "archives/foabooster/foabooster_1.0.9.0.zip",
+          "sha256": "299a46e11e69ad792b403fa1a7e3cd91d2f3ea69427480f9f10d91dd22f6919f",
+          "taille": 48623816
+        },
         {
           "version": "1.0.8.0",
           "date": "2026-10-15T02:20:55.7108186+02:00",
