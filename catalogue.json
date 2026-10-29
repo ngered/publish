@@ -1,61 +1,9 @@
 {
-  "signature": "vL3W1t4rwS+qsIdZFhfaSnrmiDlqdXzqhjU8dLYfVEC4HK7vu38I91TuRwUpyi8pmeH4Ep0GOsHKKvzHi1WzSA==",
+  "signature": "zxzbuEmOzALMO8ozbVJ8nXeWuxMWUsDeTN5+ZwgBihZ2cqWhLDkuy77dWqL2BV1nJZ9+0lMp4Stbd0xTNaI80A==",
   "donnees": {
   "format": 2,
-  "publie": "2026-10-29T11:00:29.6795046+01:00",
+  "publie": "2026-10-29T11:12:00.3811277+01:00",
   "projets": [
-    {
-      "id": "foabooster",
-      "nom": "FoaBooster",
-      "description": "",
-      "public": true,
-      "fichierVersion": "FOAbooster.exe",
-      "executable": "FOAbooster.exe",
-      "dossierParDefaut": "C:\\Outils\\OrangeTools\\FOAbooster",
-      "mode": "complet",
-      "conserver": [],
-      "versions": [
-        {
-          "version": "1.0.9.0",
-          "date": "2026-10-23T13:33:40.0728939+02:00",
-          "notes": "ajo : guide utilisateur PDF, accessible par le bouton Aide du bandeau et la touche F1\ncor : dossier de sortie vidé même avec l'option « Vider dossier sortie » désactivée\ncor : option « Lien vers classeur d'origine » activée par défaut au lieu de désactivée",
-          "archive": "archives/foabooster/foabooster_1.0.9.0.zip",
-          "sha256": "299a46e11e69ad792b403fa1a7e3cd91d2f3ea69427480f9f10d91dd22f6919f",
-          "taille": 48623816
-        },
-        {
-          "version": "1.0.8.0",
-          "date": "2026-10-15T02:20:55.7108186+02:00",
-          "notes": "",
-          "archive": "archives/foabooster/foabooster_1.0.8.0.zip",
-          "sha256": "02248f7f46062060aca0fb86efab810f79c29f227fac4e16731ac73b7fbe9c32",
-          "taille": 48459274
-        },
-        {
-          "version": "1.0.7.0",
-          "date": "2026-10-13T18:06:56.7841463+02:00",
-          "notes": "mod : optimisation pourtraitement dossiers distants\najo : charte graphique NGE (en-tête, boutons, menus)\nmod : passage .NET 10",
-          "archive": "archives/foabooster/foabooster_1.0.7.0.zip",
-          "sha256": "cc8d7ace5fc6cb9b837a0a74d1a73a6b7c6afdc03b12c2897b7683d3ab9eccf3",
-          "taille": 48426082
-        },
-        {
-          "version": "1.0.6.0",
-          "date": "2026-10-06T19:33:36.8105129+02:00",
-          "notes": "",
-          "archive": "archives/foabooster/foabooster_1.0.6.0.zip",
-          "parties": [
-            "archives/foabooster/foabooster_1.0.6.0.zip.001",
-            "archives/foabooster/foabooster_1.0.6.0.zip.002"
-          ],
-          "sha256": "267d74ca45c179fe5dfe96851672374c84bb0f9bef6b50cc3f14020e1541a2dd",
-          "taille": 142659998
-        }
-      ],
-      "categories": [
-        "Orange tools"
-      ]
-    },
     {
       "id": "ngestore",
       "nom": "NGE Store",
@@ -270,6 +218,11 @@
     }
   ],
   "prives": [
+    {
+      "ref": "42d8863a402b49289f6c65e452fa0c69",
+      "generation": 0,
+      "fiche": "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"
+    },
     {
       "ref": "f275c65f14eb4ef185ded7596095e15e",
       "generation": 0,
