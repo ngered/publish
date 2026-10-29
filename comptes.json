@@ -1,7 +1,7 @@
 {
-  "signature": "Y1CWYI04mW7CRNOxUm2DkiArr9dgUdEd8zO81a2ILxUVe3UIVXxDxiPTAchc4+/VzNpVcj7xPYka6ViSjku1FQ==",
+  "signature": "7Ccqbrv1aEwWNdxIgZ929k/LwLkJaHGnYg9OX6CSCChmQkkDcPpJznmtDgbItsw020qdz8OCBZpy7rinrhFwFQ==",
   "donnees": {
-  "publie": "2026-10-27T16:01:34.0725235+01:00",
+  "publie": "2026-10-29T07:17:31.7789464+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -3688,6 +3688,96 @@
               "ref": "4eb9b8953ca14664866465a34049bed7",
               "cles": [
                 "E+2TEOhvNQv/44QllHrZzUs8hDqjSt21KiXNvnEpzKuUx9u88vquXpVtjHFqjfFuXazcT0+wGXwbt+1n"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "+N9W6RCWgyt+fSL3rjaFtOB4",
+      "actif": true,
+      "sel": "KeaF7qDoaXBMhg7d/NZflg==",
+      "iterations": 600000,
+      "verification": "962eaY+shw5BGYaw1+oLyHWJdKq7aaVPRi3K93dV1xE=",
+      "cle": "aPW98pVgr7qtkAJFMxnF8y8QgpKStq8YFIdhjyoFgTkuYAFGxgZ3WNeIDXzzYOz+3pr1uyoRlHG3Rm5H",
+      "canaux": "GmRKS6uo795kLHqRTs+E/ik8fIP6cDN7304IyKzs7f8hM/7BxJJPtLp68XiRBYkItY0QO4j0c3G/G4Pn8ZYVHq3cVOs7UD+R+w6ZFmLSJ/+1j4Aw/xW9bU8xDbGuyiyeHk5aYYOnILuZxUVElX2Oco5z0CSO1cDxxjtnr3gOHhhEHLmzllPR9cDNnHSDtC++1vdPEB3xdNh9tUdmWMDw45iaRbDXWFIDPG2QQYDhm1AT7twwi4mEUif0luf8UGBIV+k7fAkCUrrf+pV/32QWeaKU0bMuMYk6rVbi1v48GhZygHksAEmKG7HhwFBW0yU/8kx9K1rQupuLAbzXP9wDVofWlThBN8tgwnep79v0Pfe06vLcc//CeAgTJxSOTevRu5uU/8F0CpKudsBXVrkbRHZRir64zyYlCMTRM0eAPicjyMAXtckHT0vuxvn/i8AzQq2vy6YtScUl5Qa9RcD6WoFCN8i0HbKJfm02LOJflRgOPWy9y4BJqPjwQSXpxAIAYITrjmwYlgOUgzy3OvKKQh9raaqL1runoNDpcmB1D1SbxB3sn4xQ2d1p5ayaKtjQDMs3bg0gv4K+Kg5Fm5c/vN33pPCGd5+FE7sHK5GO3xPB/DdwMklHBTtvERKRdqMO1iqmEA==",
+      "groupes": "Qlo/WAOr98ll7ndjVr34RIUoZOhDTvmS9ICC7kYzwgPATeVAzs9uUFMEMRM=",
+      "abonnements": [
+        {
+          "nom": "RkYNjJmfGHY8g7RL01JWSZ5xx/2eazXlMhFp7HwEjQaSa4lDKo52MZvNgMDJ1wvf",
+          "fin": "2027-10-28",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "vxmzmkhkNpdw3Nr/ZWJi/Px5cWDfR33hPbqosN0susBFMaf+wTsxjqbKIz+650WGTlFYXJt2MXPOAskj"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "osawT8V7/8QAqGhpeFPVayD0+Mzcv+0YLzkAE57YmX4PN0uluVpWOg==",
+          "fin": "2027-10-28",
+          "postes": 2,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "a0ef56b041c54c8892aa0c15f223f71c",
+              "cles": [
+                "L5/hK3Vj+yHIiAxwQhclSIRP6meWjbANt1V+W/j8Kp3Thq5CH1cNe/WFxX68CClzkzKr+lR/Luj+4uGN"
+              ]
+            },
+            {
+              "ref": "64ff795f6de647acb3ad94f46aeb77ec",
+              "cles": [
+                "8kcboJddTsFDGjYsqVMHfpcvZhboWhxwjr96J63oz/n5cTXcvo/vFz/SGIA3+iXXhpPA5/ZfqTW4KQvd"
+              ]
+            },
+            {
+              "ref": "f25c30585ac64617ab217c8fca55ddf1",
+              "cles": [
+                "Fk0/zmCnXw//lxyMktADU6UuuqlvOcrQLDoiIAKz+KAnpuM9e8oUmyywKkvzg6+TvwOs+gvClMVrU131"
+              ]
+            },
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "zoXFIt9PpEOoQapc0CXqzy7LCn/FUHAZLJoBvA03gCyUqlCo7zbCDi3mUvaf3ZDUlFIuCwimj5dM6RH/"
+              ]
+            },
+            {
+              "ref": "da134c1e27ac4c0696a20fdc58f225a8",
+              "cles": [
+                "+ZyWe+arw4skGinEj2VH7ITbhljcwa02+1eXt7PulCTUlC2tZPqt+DQi5tbJHbsjLzggJMw3xrTNSv7+"
+              ]
+            },
+            {
+              "ref": "2f0b2ef819074a20accd1aa8126732cb",
+              "cles": [
+                "WTBchdQU/gPAu3UOkJhXVHngCLIYckGC9jhiN3BkZ4RrHMBtU/dUIBhjzmRN2YnZQa9qK9aEP7xR72ZN"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "tIMlY0cQhtR6CVnV0+fszYgVxLEOQf82wxDT0JLLIdafG2JlXA==",
+          "fin": "2027-10-28",
+          "postes": 1,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "zoXFIt9PpEOoQapc0CXqzy7LCn/FUHAZLJoBvA03gCyUqlCo7zbCDi3mUvaf3ZDUlFIuCwimj5dM6RH/"
+              ]
+            },
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "OtiABvT8c9wMwVCFRZyJ9Mb9y2432jOxjGalO7LwilJRDLLOWsVnz98RK7k76wYEr7dYDMjFBDTGyE2w"
               ]
             }
           ]
