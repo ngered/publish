@@ -1,8 +1,8 @@
 {
-  "signature": "uJr8c0sK3n1igO/9gHnGYur9YuOhElC/G6LJffPpxyUF7TUA1q1ZeNDBOgyW2+u5y7DWzHhHECRShojw8/MycQ==",
+  "signature": "n57rxIpL5/3gpzxPK3qFeM9HicNNG9pqMeZmWryje67BuhuNJYiHhraO2ERBhx/cP41MBRs9yLyhbTRwI8pM4w==",
   "donnees": {
   "format": 2,
-  "publie": "2026-11-03T03:01:55.2044754+01:00",
+  "publie": "2026-11-03T03:02:21.6881739+01:00",
   "projets": [
     {
       "id": "ngestore",
@@ -19,6 +19,14 @@
         "dotnet/*"
       ],
       "versions": [
+        {
+          "version": "1.1.0.18",
+          "date": "2026-11-03T03:02:19.3260571+01:00",
+          "notes": "",
+          "archive": "archives/ngestore/ngestore_1.1.0.18.zip",
+          "sha256": "6d05fde465339e3a2b50ee5f89fe191534d57ae8c9ef4a4d80e259acb023baa4",
+          "taille": 299168
+        },
         {
           "version": "1.1.0.17",
           "date": "2026-11-03T01:57:01.2709119+01:00",
