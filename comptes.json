@@ -1,7 +1,7 @@
 {
-  "signature": "mBVJ4jMrkRMhmPe+TG7MaKbKAQ4zozawl/q70qp2q6ZM7vflfy7CiugAcvP3C9Y74yA3Ad90L8Okdy6frR6xPQ==",
+  "signature": "/H3pzW3sIuwBXoFX3N7KkwZfl179rG6xeW3H4X0fr2eTmvPIrXtNKUwKu4n7YcxkuDkOVLeLfyJ5jcSGI1JP+A==",
   "donnees": {
-  "publie": "2026-11-11T21:18:14.5852593+01:00",
+  "publie": "2026-11-11T21:24:46.050026+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -115,6 +115,12 @@
               "ref": "8eb4c4fbaa354ac5a5b6c5bbd656fe93",
               "cles": [
                 "s5jWDTdfHBNPOhKZU+1XiCxDaecH6//mDKL7xRexnTCwQ2hsD0/+Hz/zZjkmmBhfgWSExCSGuHhutAJr"
+              ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "SKYfmptApT2pkimssIQkv5l/i6OgtnsGz4tKcLsz77onUSg3tvMgBEI8/L7ADWIA/XW+icrQ8DzH9vfx"
               ]
             },
             {
