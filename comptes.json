@@ -1,7 +1,7 @@
 {
-  "signature": "f7ZkbSPVFJB4MCeq8TJH3v9cyGVLu1VGENGGCFmS1691jgpVcon7RveYnTLFja+wwhNzU5ekXCQZCUf3LnJUgQ==",
+  "signature": "k0Zha6A3klZFFcaEnIZsgEhLIv99g9NG5NEjHIw58SvRcPUVrTfKhPkWa16+CD1pVb5IrhxsDJ4iNbqTsl+vyg==",
   "donnees": {
-  "publie": "2026-11-23T16:19:37.7887225+01:00",
+  "publie": "2026-11-23T16:22:01.4956237+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -4249,7 +4249,40 @@
       "cle": "hrVKOTIyZvtoFPO1mgxVqLMn9c06Vq2pd8VsUrnbDc5eJ9JSRAJn1zGTTxy6p3DmcAC69CaZf88auoP3",
       "canaux": "wqh5LS5Z3u0dVvI1DH0uUtlRhvtdHeBVFL1tEgIg+tf+QdFcwYEAPLV8tSe0yI9nN5Dw5Cm1fKQNX66S3SLIL/YisgSY5TAg48NWUCnLW5/nEQyPEI+tuMLrsofhABStlP+3x8RaaTnCv9uZv1ddSWjawZ1PG6S+cdmhMfMb7FpoEbTwHHmx8LRHWcu3o/BsZMqqSvsLPh/M0AHYOFC833/At84kgGmrcCn+4lZkct2TqrF8Bihk4mKXX77Snor3ALrLMH1uYcQW2n+xZMXf73OCRcfR0n4/CTG6JraV4HaDPCF0jxhspjw2ttQnmxO/siN6AG3+1xZNvBh/yc0S6jYlVjOFt12h+OB7xj8mWUpDS8jU30J7Ol5t2QHdHZ5V9z3N6roAYYR0msfDweYF28DmWiNV2wYwriQvLWsMrQikPVzQzIpHZxpgyPYihzxfI3jTJv0H4LaVnyclMet9BlhNpHXFk3vG4R6Il/gU1PmdN4Wl6c6oxAPevC83P8p2bH99VbNlyCKxUzJXaqCNUmY0QpBjVenPFv/13YpaGvT3vwsF3PUyjRzpdueG2EdAq9FtbUxhzy187nam4HsTRbk6hJO0R4bpZw1e5yOTbi3wjLElNdB9WN/lHqKdubEAjFxRRA==",
       "groupes": "lPmU7QeB1ZWAb52z8dwUHDOTqT/KKwppxgRTVAms2uprIRttlCrlsUpi",
-      "abonnements": []
+      "abonnements": [
+        {
+          "nom": "9bV5w+RmaXdKa0nG+kEemg4lb99iwJkTmvtEpLq5f3jZeUSJAkE=",
+          "fin": "2027-11-23",
+          "postes": 2,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f25c30585ac64617ab217c8fca55ddf1",
+              "cles": [
+                "wTa9c9whl08zIXGhLj6OXVReblY1jHLSS8nhSg6W2IyYJs1TzXwUOQzqiAQvM6joGprDk/YoLREkgxwX"
+              ]
+            },
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "VZXkCyot59kTkWjRsPZHYkvBCfr7ibHx/W0aqd/MIGwdCWrFoRlxMR5I7PLkMpo4pbcmzbpqqOWxQlBs"
+              ]
+            },
+            {
+              "ref": "477c477d62dd4927b5c998c588dc93b2",
+              "cles": [
+                "JfKVtjGUFXA8n0nLknrnHRmSjJBWFpbGPN/L5GHfPF/3PzKNqo9Kw64vvB2H0isg2AIOAZgq/PfScC12"
+              ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "csZ7Z0xENzmfbAexp3QL/KB4GNxwvDyv+7gYYyuUy9xUPzOrY+Tsc7G9XygZLM8JLI5WWV+vb+UG3Gl8"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
