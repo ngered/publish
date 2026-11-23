@@ -1,7 +1,7 @@
 {
-  "signature": "ATVriAldxLaa0ko4VwQ0FlbuX63uS2EHl4e8NCLdlCtYyOEOMTQKF0Voa1fuAWhdUsNl0mJQKIypI6eKbE4lnA==",
+  "signature": "fj8QluwS60j1xQ1TkQt52n3QSnUcAY/1LEuXS8JHdczj32XKa1BKVxADf/Y/5H7gsKleOsxSvfld5fkj6IYhwg==",
   "donnees": {
-  "publie": "2026-11-23T16:23:30.0792194+01:00",
+  "publie": "2026-11-23T16:27:26.2152915+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -4252,7 +4252,6 @@
       "abonnements": [
         {
           "nom": "9bV5w+RmaXdKa0nG+kEemg4lb99iwJkTmvtEpLq5f3jZeUSJAkE=",
-          "fin": "2027-11-23",
           "postes": 2,
           "postesActives": [
             "2XBJ-43L6-M57F-2VQY"
@@ -4280,6 +4279,32 @@
               "ref": "1358084e00f34d90bb0040b188f3d645",
               "cles": [
                 "csZ7Z0xENzmfbAexp3QL/KB4GNxwvDyv+7gYYyuUy9xUPzOrY+Tsc7G9XygZLM8JLI5WWV+vb+UG3Gl8"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "9KfL6Q3mc/8RIonJe/BNbqvKSv+cgVVmECYPPisnQca1BXYjB24ZxAM=",
+          "fin": "2027-11-23",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "d29LxXZQfL+27dmk2Zpk0IPg/SlTTsm0BzKN/LjyH3JdoTPz2P3pK5hZ+WSnqTljMwYl+kjxKhwR0BoY"
+              ]
+            },
+            {
+              "ref": "e6703c99df204682b5b851c39782c391",
+              "cles": [
+                "mMMDBlsPlEjozA0vHpJ0+Tjncs6iJfDD4ncbGzGl24fRGL7DdAt1hAUHZM8VQ7mWZCt5iowkAypip4+3"
+              ]
+            },
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "7n5p4DjaZ9VC3OLQz8x9o6IqPnObmcOdNTUYNFwy5bC7GDSDyP5LF3kPTLd/aqPAE6/z0FYVhkdGzMru"
               ]
             }
           ]
