@@ -1,7 +1,7 @@
 {
-  "signature": "dnmDRJzv9X/YKiJg+kBrx16wehSgKCp5bWxVYGK+Z71S1+XcR2QLBxHEGX5j8T8p/xXc8uUflZrWzXAbh7FNMA==",
+  "signature": "f7ZkbSPVFJB4MCeq8TJH3v9cyGVLu1VGENGGCFmS1691jgpVcon7RveYnTLFja+wwhNzU5ekXCQZCUf3LnJUgQ==",
   "donnees": {
-  "publie": "2026-11-23T02:37:50.3298267+01:00",
+  "publie": "2026-11-23T16:19:37.7887225+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -412,6 +412,12 @@
               "ref": "477c477d62dd4927b5c998c588dc93b2",
               "cles": [
                 "oLR/r6J+YxgZQPXMr2DfkBtZkU3EbgbHYUfRTNgeIBVgCFh6T2T9KrRL733WUZgOjDed0QGcIjia2hio"
+              ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "AOQH6zpt1N4mybDnbFxVSCXZKjsV7hpgJMDsXL3w/J0UIh2FMPm7F26eUqpS81ZVgGZK2lOjU+db7T6H"
               ]
             }
           ]
@@ -1082,6 +1088,12 @@
               "cles": [
                 "GI6xMDUww5GQCMRcaUHW3otVoamYiQUs4iSSRQnxISQqNPct3zAp3GdXGAZ9maxUTMiV3bC0wPX0XQpJ"
               ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "dAj+viZYvBI9wV2+RhzWifLm0+MBiMZZ72daT8uD42vThFTrjzwZpC9zssoYWR+6D4Hk4fXAYA7ULDLE"
+              ]
             }
           ]
         },
@@ -1161,6 +1173,12 @@
               "ref": "477c477d62dd4927b5c998c588dc93b2",
               "cles": [
                 "C+YouX8vxM4K0JxvD/aeBe4KbdNEDiuCmgnjw7s1xNBbaJISEgM1M4MmoApqGpOApBsBIJZxw/Z0FTnx"
+              ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "biWIhmOe/eX4UNKfCWuvku9pPPzAOuRoGvG59AJZctNKhk3hyUhuXuUOysvzuIUcTrVSGnagNsaLRhq8"
               ]
             }
           ]
@@ -4091,6 +4109,12 @@
               "cles": [
                 "oQAuts3bcU0CFiTACN2ysTq/rtKK4GN9Fq5PV5Id1ZmUGvBymEsKTcoaxJeYCEGKzK3WLDCMK2wIlvmp"
               ]
+            },
+            {
+              "ref": "1358084e00f34d90bb0040b188f3d645",
+              "cles": [
+                "fyznH+39ZzUbzCh98D1itw0ay2/jgH1NlaQzfks7XaUnfD+m1GbSizJZ0CKq0YKpYe2SywFe4WxrLCK3"
+              ]
             }
           ]
         },
@@ -4215,6 +4239,17 @@
           ]
         }
       ]
+    },
+    {
+      "id": "AqbD+ppvpsLXUl0R6d/M0rmA",
+      "actif": true,
+      "sel": "YzCKmOkFMc24KshpYnvmFw==",
+      "iterations": 600000,
+      "verification": "AqDlFr6qd5mxCzCwDZgG8+5EehRlAISTESH/Q4+Y8LE=",
+      "cle": "hrVKOTIyZvtoFPO1mgxVqLMn9c06Vq2pd8VsUrnbDc5eJ9JSRAJn1zGTTxy6p3DmcAC69CaZf88auoP3",
+      "canaux": "wqh5LS5Z3u0dVvI1DH0uUtlRhvtdHeBVFL1tEgIg+tf+QdFcwYEAPLV8tSe0yI9nN5Dw5Cm1fKQNX66S3SLIL/YisgSY5TAg48NWUCnLW5/nEQyPEI+tuMLrsofhABStlP+3x8RaaTnCv9uZv1ddSWjawZ1PG6S+cdmhMfMb7FpoEbTwHHmx8LRHWcu3o/BsZMqqSvsLPh/M0AHYOFC833/At84kgGmrcCn+4lZkct2TqrF8Bihk4mKXX77Snor3ALrLMH1uYcQW2n+xZMXf73OCRcfR0n4/CTG6JraV4HaDPCF0jxhspjw2ttQnmxO/siN6AG3+1xZNvBh/yc0S6jYlVjOFt12h+OB7xj8mWUpDS8jU30J7Ol5t2QHdHZ5V9z3N6roAYYR0msfDweYF28DmWiNV2wYwriQvLWsMrQikPVzQzIpHZxpgyPYihzxfI3jTJv0H4LaVnyclMet9BlhNpHXFk3vG4R6Il/gU1PmdN4Wl6c6oxAPevC83P8p2bH99VbNlyCKxUzJXaqCNUmY0QpBjVenPFv/13YpaGvT3vwsF3PUyjRzpdueG2EdAq9FtbUxhzy187nam4HsTRbk6hJO0R4bpZw1e5yOTbi3wjLElNdB9WN/lHqKdubEAjFxRRA==",
+      "groupes": "lPmU7QeB1ZWAb52z8dwUHDOTqT/KKwppxgRTVAms2uprIRttlCrlsUpi",
+      "abonnements": []
     }
   ]
 }
