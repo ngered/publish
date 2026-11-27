@@ -1,7 +1,7 @@
 {
-  "signature": "Osa43tW3fjIyrhFHQ4rv/YMQQGEdRTklQQ2iZq5MLt/vi7JYh0agtqAyEWVIbxlV1FQKF+wrrcNdk00+5vfrtQ==",
+  "signature": "TaAa0PqXmMtoKZkb+dsTF+xuq2oF2u5r0DHFeWgEVDtjIHtN82hXvrB6bt4iz9c4MlRIWn0kagUkP9YiDT/Wkg==",
   "donnees": {
-  "publie": "2026-11-27T14:11:21.6354686+01:00",
+  "publie": "2026-11-27T14:23:49.5934465+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -4308,6 +4308,68 @@
               "ref": "1358084e00f34d90bb0040b188f3d645",
               "cles": [
                 "csZ7Z0xENzmfbAexp3QL/KB4GNxwvDyv+7gYYyuUy9xUPzOrY+Tsc7G9XygZLM8JLI5WWV+vb+UG3Gl8"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dBX79EXFdcoamkcccRoXI+qW",
+      "actif": true,
+      "sel": "iJN41tfPSZo8CD2ENsB7Hw==",
+      "iterations": 600000,
+      "verification": "VEaSV7p96GWZrD+9d2ycINV/6Afh7Cr68ZuntVP6dWk=",
+      "cle": "p90gtCQRAkvgpzDae667w6Bmp5o8S9AFeBejRpvWGPt/2cadIdjQ4NJ/VgmhEJvEB7dNtDkVikvga7dO",
+      "canaux": "40SIgvhA3TLJazUHRSpgHVtRTHGLPLnVXE8NYqPDDsOivzJ9rN2bxOm7I6bakMrQEpARuw8hpSkswriDCWe6R8o1qbC+m9RinNSZa/wi61iGPZu5IPbULYCWwA9/fRLtGhTDxye4eTl5SnM0aEW96vAezif3IwkS3nBhUX1t+OIbDDSYo7fzHL4OrsqsfBa2+WCnBSPPkR6T/xHHnH2niDcqRXUjlwaEFAel5cQuHMeWkqQIkShqEv4gSmeRCkAOZ4aOrRzvoFVEuuhSu/xXmGZRGHCbrYZN5osnXBrdtzl7+44GGN+qCXrGDL/1ZstBQ8Hf2xBz7PJ7OMRWbZeN2yb6TPiTf78Q4z6Xxp8CUNv83N481cKsB4nOZX/XYEK77qR9Dwil2WUawe4SQd7pHCygub2WaCsn+8Oide9Dv2iSuPA9ge4xWK3decMifDTIdgL2cRW9LkmzBYZNjDueNrzRrdZTD5fjavB6cmBHCCqrVfCv1Fj7v/8Oa981TjXTq2uEFV6pMIwNgWxfomOIFp2+h78Z5sXaQbvVDsLD89dMEIV9McVqE9cC01D73KtYpHelt3+45yBtTJZmk2gxa+TDAL3jqZwmjg+kr3rc3s+EZAdhgpyfP90OGGGWVy3Xd2NBEw==",
+      "groupes": "18J+Tc+Z6HSttmB6YUgpqLeWf3ZoNM4S+JYqtVbNNi9bJK3NsrVxKdM=",
+      "abonnements": [
+        {
+          "nom": "daqazQzBgYfP7+Ks/Iy5mBHfKHIDP6Ty4U2lpWwJXHnpi0FmVP0=",
+          "postes": 2,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "f25c30585ac64617ab217c8fca55ddf1",
+              "cles": [
+                "FBD4kBpoy/SkWb0LUlLPW73q1401lQ6+mJ0rzKYXEbvHho8V7YK7TH3uBFcDlRL0Ds5YqQufEEsE2wIf"
+              ]
+            },
+            {
+              "ref": "f275c65f14eb4ef185ded7596095e15e",
+              "cles": [
+                "JG6vI4QUwMXYJ3I1aCke8pMYuTcFNZpMMXidE7GZ4MHUte7cIXc/6VdIJw9y8aX8NOW/m3DnDsnRTRNr"
+              ]
+            },
+            {
+              "ref": "477c477d62dd4927b5c998c588dc93b2",
+              "cles": [
+                "iRvPPCNN5kcCcHdFVVYjK++Dd7WEPcSJc7BEsRRd4vuR/GnmDoww4fkXYiHO+humRH8/S4x0V87MbXi/"
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "Ya8X/aXSylASGqrw1xyGNsUZ1k7Q8PRSlDf5Ir7hN3LV1tGPQmZv0yM=",
+          "postes": 0,
+          "postesActives": [],
+          "projets": [
+            {
+              "ref": "6965cfe5dd1242e4946b65ccfb6e8ef9",
+              "cles": [
+                "2FfJvpc7F9zQ9OF9W06kbxCdJbrNxHwIeJ2+19u4kdbspfmO346NnwwDKbHho5mb59PvdIhKvwEaIUdU"
+              ]
+            },
+            {
+              "ref": "e6703c99df204682b5b851c39782c391",
+              "cles": [
+                "t6S1DXQAUMMhZxsDje/SEbuPMYByx/mjHSouhShWFXj7YU6pjOEU61uJjI+3rtjPTaaxiZjbcF0BXKR8"
+              ]
+            },
+            {
+              "ref": "4eb9b8953ca14664866465a34049bed7",
+              "cles": [
+                "mMZVn/MCwCWWcyODiNpUbrJmVSPmr8ydzv6T7tPMoqdKNvlJ5qDD+UmZHmMqKLzrB37/TfWBa1ru7Jy+"
               ]
             }
           ]
