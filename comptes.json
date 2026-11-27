@@ -1,7 +1,7 @@
 {
-  "signature": "rBhG4kKQhn9VAfR7pzGMSmW0FwnAKN32ul7moANtncoNfajTLTaBrfHHnYIA8lGLWyp6kt0vdA1Z4aHwDdGdAQ==",
+  "signature": "T6p+Uk5v4xgOEPhQwAAAVIjCLM3Evr6D4UMFEWCHhNcpuAFVtNR3Q2DOVQaML66Mw8FhLnDPZnGDnq7I3vGSXQ==",
   "donnees": {
-  "publie": "2026-11-27T11:28:19.3956405+01:00",
+  "publie": "2026-11-27T11:35:32.8852015+01:00",
   "comptes": [
     {
       "id": "pS7mKGq6yf0hYin/2MnSnDky",
@@ -4085,6 +4085,7 @@
       "verification": "X84QO18b1ogJCqjrA8b4j3WQn13wRoPMyxQxitdB4e0=",
       "cle": "hLSTP5+4OXt4GoAOmn8OoNDi8qdwzXNR0j96BFHRoqNOuBG0RO9agVtPX1D7VdvWtovH62P3cApl0py+",
       "canaux": "dFjvEx7hiAkkbDTHcoMJLsJlLzICSHEx4XVR3plRF5xFa0xF7WM1BvCDIILFIYa/tIyhmkU0MfyNpZ/DITg6sQREtyd1IAQ2wF5882C6YJC9LlQcEklAmeVH5uwBTUD1prQTUMB2Ba9RAkW4DJN/rQS8ENu2eQ6Boz32/1KqPeZ7O8szDp4usrf71zNmZhdLLot9U0ufc4JxB3HVw/mhjDqfgZltJBgAquWBL9/oYfvTpgUi3OtKYtrfrRgW9F7ZE0hmvbSK6EqZZ30IJXREE9c8FOjrN0baBaVkAEJ4hjrrZ5PRVYtdAofOk5bon2+c3Ry6NKJR3yD0lo7nSUrUMvxZwTlM0+mT0p6BHg/Ya0SZywytCrC3hMs2lAc2u7etS84Vmgi3vkb/YUTzC0/nUkbPNoPrmDFM90fy1nrlAa69V64Q6f7h4DK3IVoTnEdcU+71Vnz58E11TPNBDuuMeBd+EbmMaJdp+3YrudvMgnYLHAE1gXK07v7OfRrT+ERiGqhSEDpzCQjhGtDVijJp1VMJy+p2xrER7apRwlRT9tGVpsK4SCeqNvvDqYj53PfjJ7k/A1yds3Gfm8QvA6MJLHx1Po9vUFO6tBCTdVkR463Ug1Y3CDjKzYIuj5YQNYwvSp0w+A==",
+      "groupes": "05B8EUa8XItiitiyHPLHbC7Sft55jMcgZydrMpa8BlUdV9H23M8M30K7H85SYHNeEJLXJkVVqko=",
       "abonnements": [
         {
           "nom": "ENof6S1NxJPZ0i1RRuTYPtreBweog58SZLT5grTKG80EZIqcHlg=",
